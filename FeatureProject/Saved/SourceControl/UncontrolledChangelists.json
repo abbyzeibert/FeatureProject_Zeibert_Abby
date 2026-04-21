@@ -14,7 +14,8 @@
 				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Player.uasset",
 				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/BP_GameInstance.uasset",
 				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/IA_Mast.uasset",
-				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/IA_Sail.uasset"
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/IA_Sail.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_SpeedFlag.uasset"
 			]
 		}
 	]
