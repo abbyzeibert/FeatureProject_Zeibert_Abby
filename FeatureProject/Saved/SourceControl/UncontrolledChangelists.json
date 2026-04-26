@@ -15,7 +15,30 @@
 				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/BP_GameInstance.uasset",
 				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/IA_Mast.uasset",
 				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/IA_Sail.uasset",
-				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_SpeedFlag.uasset"
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_SpeedFlag.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/IA_Mast.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/IA_Move.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/IA_Sail.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/IMC_Controls.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/Sail/IA_Mast.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/Sail/IA_Move.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/Sail/IA_Sail.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/Sail/IMC_Controls.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/Character/IMC_Player.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/Character/IA_MovePlayer.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/Character/IA_Jump.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/Character/IA_Interact.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_BaseInteractable.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/Interfaces/BPI_Interactable.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Ladder.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/Ladder/IA_Interact.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/Ladder/IA_Climb.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/Ladder/IMC_Ladder.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/GameSystems/Controls/ActorComponents/AC_FollowOther.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Hook.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Rigging.uasset",
+				"D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_RigStart.uasset"
 			]
 		}
 	]
