@@ -28702,3 +28702,232 @@ Make sure '/Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter_C' has been co
 [2026.04.28-23.45.34:623][ 16]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4425.765137
 [2026.04.28-23.45.35:627][ 19]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.28-23.45.35:627][ 19]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4426.432129, Update Interval: 332.888580
+[2026.04.28-23.46.32:486][798]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.04.28-23.46.41:446][148]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.28-23.46.47:929][415]LogEditorTransaction: Undo Edit Intensity
+[2026.04.28-23.46.49:092][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-23.46.49:160][448]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.04.28-23.46.49:172][448]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.04.28-23.46.49:172][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.04.28-23.46.49:172][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.04.28-23.46.49:209][448]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.04.28-23.46.49:209][448]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Sail4ADBA53A45512EB8511D8BAA7A03E521.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.04.28-23.46.49:222][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.473 ms (total: 12.7 sec)
+[2026.04.28-23.46.49:293][448]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-23.46.49:293][448]LogContentValidation: Enabled validators:
+[2026.04.28-23.46.49:293][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-23.46.49:293][448]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-23.46.49:293][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-23.46.49:293][448]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-23.46.49:293][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-23.46.49:293][448]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-23.46.49:293][448]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.04.28-23.47.13:004][412]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:005][412]LogPhysics: Warning: Scale for /Game/Scenes/TestMap.TestMap:PersistentLevel.BP_Sail_C_1.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:005][412]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:036][413]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:036][413]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:036][413]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:067][414]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:068][414]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:068][414]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:098][415]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:099][415]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:099][415]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:129][416]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:130][416]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:130][416]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:158][417]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:159][417]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:159][417]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:188][418]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:188][418]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:188][418]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:217][419]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:218][419]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:218][419]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:249][420]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:250][420]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:250][420]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:279][421]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:279][421]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:279][421]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:310][422]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:310][422]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:310][422]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:341][423]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.47.13:341][423]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.BP_Sail_C_0.Light has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2026.04.28-23.48.00:655][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.04.28-23.48.01:181][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-23.48.01:246][445]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.04.28-23.48.01:255][445]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.04.28-23.48.01:255][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.04.28-23.48.01:255][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.04.28-23.48.01:292][445]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.04.28-23.48.01:292][445]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Sail66E05A484627DA1E872199AA543718E1.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.04.28-23.48.01:307][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.710 ms (total: 12.8 sec)
+[2026.04.28-23.48.01:361][445]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-23.48.01:361][445]LogContentValidation: Enabled validators:
+[2026.04.28-23.48.01:361][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-23.48.01:361][445]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-23.48.01:361][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-23.48.01:361][445]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-23.48.01:361][445]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-23.48.01:361][445]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-23.48.01:361][445]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.04.28-23.48.12:314][ 97]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.04.28-23.48.12:314][ 97]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.04.28-23.48.12:316][ 97]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Scenes/TestMap.TestMap:PersistentLevel.StaticMeshActor_1
+[2026.04.28-23.48.12:317][ 97]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Scenes/TestMap.TestMap:PersistentLevel.StaticMeshActor_1
+[2026.04.28-23.48.17:498][439]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-23.48.41:816][ 27]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.04.28-23.48.41:816][ 27]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.04.28-23.48.54:037][848]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.28-23.49.09:102][835]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.28-23.49.22:380][669]Cmd: DUPLICATE
+[2026.04.28-23.49.22:380][669]Cmd: ACTOR DUPLICATE
+[2026.04.28-23.49.44:768][ 59]LogEditor: Attempting to add actor of class 'CableActor' to level at -20.00,-20.00,1020.00
+[2026.04.28-23.50.25:912][662]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2026.04.28-23.50.25:912][662]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2026.04.28-23.50.25:914][662]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/Scenes/TestMap.TestMap:PersistentLevel.Actor_0
+[2026.04.28-23.50.25:914][662]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/Scenes/TestMap.TestMap:PersistentLevel.Actor_0
+[2026.04.28-23.51.45:620][924]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4796.749023
+[2026.04.28-23.51.45:777][934]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-23.51.45:777][934]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4796.891113, Update Interval: 303.215424
+[2026.04.28-23.51.54:349][518]Cmd: TRANSACTION UNDO
+[2026.04.28-23.51.54:349][518]LogEditorTransaction: Undo Edit X
+[2026.04.28-23.52.07:688][371]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.28-23.52.07:697][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.28-23.52.07:697][371]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestMap
+[2026.04.28-23.52.07:702][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005191s)
+[2026.04.28-23.52.07:702][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestMap.TestMap to /Game/Scenes/UEDPIE_0_TestMap.TestMap (0.005240s)
+[2026.04.28-23.52.07:789][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.04.28-23.52.07:792][371]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.04.28-23.52.07:795][371]LogPlayLevel: PIE: World Init took: (0.002743s)
+[2026.04.28-23.52.07:796][371]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2026.04.28-23.52.07:796][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.28-23.52.07:796][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.28-23.52.07:796][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.28-23.52.07:796][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.28-23.52.07:796][371]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.28-23.52.07:796][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.28-23.52.07:796][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.28-23.52.07:796][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.28-23.52.07:796][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.28-23.52.07:796][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.28-23.52.07:796][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.28-23.52.07:799][371]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.28-23.52.07:869][371]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.28-23.52.07:870][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.28-23.52.07:870][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.28-23.52.07:870][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.28-23.52.07:870][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2026.04.28-23.52.07:870][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2026.04.28-23.52.07:873][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2026.04.28-23.52.07:873][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2026.04.28-23.52.07:873][371]LogInit: FAudioDevice initialized with ID 36.
+[2026.04.28-23.52.07:873][371]LogAudio: Display: Audio Device (ID: 36) registered with world 'TestMap'.
+[2026.04.28-23.52.07:873][371]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2026.04.28-23.52.07:878][371]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.28-23.52.07:880][371]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2026.04.28-16.52.07
+[2026.04.28-23.52.07:880][371]LogWorld: Bringing up level for play took: 0.001634
+[2026.04.28-23.52.07:882][371]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.04.28-23.52.07:885][371]PIE: Server logged in
+[2026.04.28-23.52.07:887][371]PIE: Play in editor total start time 0.191 seconds.
+[2026.04.28-23.52.12:719][403]LogBlueprintUserMessages: [BP_Sail_C_1] finished
+[2026.04.28-23.52.21:450][460]LogBlueprintUserMessages: [BP_PlayerCharacter_C_1] faild if
+[2026.04.28-23.52.21:610][461]LogBlueprintUserMessages: [BP_PlayerCharacter_C_1] faild if
+[2026.04.28-23.52.21:754][462]LogBlueprintUserMessages: [BP_PlayerCharacter_C_1] faild if
+[2026.04.28-23.52.21:896][463]LogBlueprintUserMessages: [BP_PlayerCharacter_C_1] faild if
+[2026.04.28-23.52.22:045][464]LogBlueprintUserMessages: [BP_PlayerCharacter_C_1] faild if
+[2026.04.28-23.52.22:191][465]LogBlueprintUserMessages: [BP_PlayerCharacter_C_1] faild if
+[2026.04.28-23.52.31:077][531]LogBlueprintUserMessages: [BP_Sail_C_1] finished
+[2026.04.28-23.52.51:192][812]LogBlueprintUserMessages: [BP_Sail_C_1] finished
+[2026.04.28-23.53.01:444][544]LogBlueprintUserMessages: [BP_Sail_C_1] finished
+[2026.04.28-23.53.42:789][485]LogBlueprintUserMessages: [BP_Sail_C_1] finished
+[2026.04.28-23.53.44:306][592]LogBlueprintUserMessages: [BP_Sail_C_1] finished
+[2026.04.28-23.53.46:535][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-23.53.46:535][750]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_TestMap
+[2026.04.28-23.53.46:535][750]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-23.53.46:535][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-23.53.46:544][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.28-23.53.46:550][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-23.53.46:583][750]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.28-23.53.46:583][750]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2026.04.28-23.53.46:583][750]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=4
+[2026.04.28-23.53.46:585][750]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=2
+[2026.04.28-23.53.46:591][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-23.53.46:595][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.04.28-23.53.46:731][751]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.04.28-23.54.19:242][568]Cmd: TRANSACTION UNDO
+[2026.04.28-23.54.19:271][568]LogEditorTransaction: Undo Attach actors
+[2026.04.28-23.54.55:913][927]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.28-23.54.55:920][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.28-23.54.55:944][927]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestMap
+[2026.04.28-23.54.55:950][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005458s)
+[2026.04.28-23.54.55:950][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestMap.TestMap to /Game/Scenes/UEDPIE_0_TestMap.TestMap (0.005507s)
+[2026.04.28-23.54.55:984][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.04.28-23.54.55:987][927]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.04.28-23.54.55:989][927]LogPlayLevel: PIE: World Init took: (0.001891s)
+[2026.04.28-23.54.55:990][927]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2026.04.28-23.54.55:990][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.28-23.54.55:990][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.28-23.54.55:990][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.28-23.54.55:990][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.28-23.54.55:990][927]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.28-23.54.55:990][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.28-23.54.55:990][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.28-23.54.55:990][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.28-23.54.55:990][927]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.28-23.54.55:990][927]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.28-23.54.55:990][927]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.28-23.54.55:993][927]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.28-23.54.56:062][927]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.28-23.54.56:062][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.28-23.54.56:062][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.28-23.54.56:062][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.28-23.54.56:063][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2026.04.28-23.54.56:063][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2026.04.28-23.54.56:065][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2026.04.28-23.54.56:065][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2026.04.28-23.54.56:065][927]LogInit: FAudioDevice initialized with ID 37.
+[2026.04.28-23.54.56:065][927]LogAudio: Display: Audio Device (ID: 37) registered with world 'TestMap'.
+[2026.04.28-23.54.56:065][927]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2026.04.28-23.54.56:070][927]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.28-23.54.56:072][927]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2026.04.28-16.54.56
+[2026.04.28-23.54.56:072][927]LogWorld: Bringing up level for play took: 0.002034
+[2026.04.28-23.54.56:075][927]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2026.04.28-23.54.56:077][927]PIE: Server logged in
+[2026.04.28-23.54.56:079][927]PIE: Play in editor total start time 0.16 seconds.
+[2026.04.28-23.55.00:907][250]LogBlueprintUserMessages: [BP_Sail_C_1] finished
+[2026.04.28-23.55.15:636][286]LogBlueprintUserMessages: [BP_Sail_C_1] finished
+[2026.04.28-23.55.25:309][982]LogBlueprintUserMessages: [BP_Sail_C_1] finished
+[2026.04.28-23.55.25:549][999]LogBlueprintUserMessages: [BP_Sail_C_1] finished
+[2026.04.28-23.55.41:726][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-23.55.41:726][142]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_TestMap
+[2026.04.28-23.55.41:726][142]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-23.55.41:726][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-23.55.41:735][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.28-23.55.41:741][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-23.55.41:773][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-23.55.41:773][142]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2026.04.28-23.55.41:773][142]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=4
+[2026.04.28-23.55.41:775][142]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=2
+[2026.04.28-23.55.41:784][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.04.28-23.55.41:953][143]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2026.04.28-23.55.42:420][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-23.55.42:480][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/TestMap" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Scenes/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.28-23.55.42:539][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.04.28-23.55.42:559][158]LogSavePackage: Moving output files for package: /Game/Scenes/TestMap
+[2026.04.28-23.55.42:560][158]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/TestMapC9CDA3EA41B487FFD654A4BB9397EAC9.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Scenes/TestMap.umap'
+[2026.04.28-23.55.42:574][158]LogFileHelpers: Saving map 'TestMap' took 0.094
+[2026.04.28-23.55.42:585][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.666 ms (total: 12.9 sec)
+[2026.04.28-23.55.42:665][158]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-23.55.42:665][158]LogContentValidation: Enabled validators:
+[2026.04.28-23.55.42:665][158]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-23.55.42:665][158]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-23.55.42:665][158]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-23.55.42:665][158]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-23.55.42:665][158]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-23.55.42:665][158]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-23.55.42:665][158]AssetCheck: /Game/Scenes/TestMap Validating asset
