@@ -35307,3 +35307,1376 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.01-20.54.11:739][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.05.01-20.54.11:742][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
 [2026.05.01-20.54.11:836][963]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2026.05.01-20.54.43:579][394]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.01-20.55.12:750][ 15]LogDerivedDataCache: C:/Users/Abbyz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.01-20.55.36:337][265]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.01-20.55.40:016][472]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.01-20.55.40:406][495]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.01-20.55.41:668][550]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.01-20.55.43:276][601]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.01-20.55.44:592][637]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.01-20.55.59:778][504]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2026.05.01-20.55.59:778][504]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2026.05.01-20.55.59:824][504]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Scenes/TestMap.TestMap:PersistentLevel.TriggerBox_0
+[2026.05.01-20.55.59:824][504]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Scenes/TestMap.TestMap:PersistentLevel.TriggerBox_0
+[2026.05.01-20.56.01:242][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.05.01-20.56.01:246][582]LogEditorActor: Deleted 0 Actors (0.056 secs)
+[2026.05.01-20.56.01:251][582]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2026.05.01-20.56.01:251][582]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2026.05.01-20.56.01:253][582]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Scenes/TestMap.TestMap:PersistentLevel.TriggerBox_1
+[2026.05.01-20.56.01:253][582]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Scenes/TestMap.TestMap:PersistentLevel.TriggerBox_1
+[2026.05.01-20.56.01:801][606]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.01-20.56.37:255][820]Cmd: DUPLICATE
+[2026.05.01-20.56.37:255][820]Cmd: ACTOR DUPLICATE
+[2026.05.01-20.56.46:112][335]Cmd: TRANSACTION UNDO
+[2026.05.01-20.56.46:113][335]LogEditorTransaction: Undo Scale Elements
+[2026.05.01-20.56.56:228][906]Cmd: TRANSACTION UNDO
+[2026.05.01-20.56.56:228][906]LogEditorTransaction: Undo Scale Elements
+[2026.05.01-20.57.02:069][216]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.01-20.57.02:076][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.01-20.57.02:107][216]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-20.57.02:113][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005683s)
+[2026.05.01-20.57.02:113][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestMap.TestMap to /Game/Scenes/UEDPIE_0_TestMap.TestMap (0.005747s)
+[2026.05.01-20.57.02:196][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.05.01-20.57.02:201][216]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.05.01-20.57.02:203][216]LogPlayLevel: PIE: World Init took: (0.002161s)
+[2026.05.01-20.57.02:204][216]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2026.05.01-20.57.02:204][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.01-20.57.02:204][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.01-20.57.02:204][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.01-20.57.02:204][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.01-20.57.02:204][216]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.01-20.57.02:204][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.01-20.57.02:204][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.01-20.57.02:204][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.01-20.57.02:204][216]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.01-20.57.02:204][216]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.01-20.57.02:204][216]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.01-20.57.02:206][216]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.01-20.57.02:276][216]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.05.01-20.57.02:277][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.01-20.57.02:277][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.01-20.57.02:277][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.01-20.57.02:277][216]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2026.05.01-20.57.02:278][216]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2026.05.01-20.57.02:280][216]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2026.05.01-20.57.02:280][216]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2026.05.01-20.57.02:280][216]LogInit: FAudioDevice initialized with ID 38.
+[2026.05.01-20.57.02:280][216]LogAudio: Display: Audio Device (ID: 38) registered with world 'TestMap'.
+[2026.05.01-20.57.02:280][216]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2026.05.01-20.57.02:285][216]LogLoad: Game class is 'BP_GameMode_C'
+[2026.05.01-20.57.02:287][216]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2026.05.01-13.57.02
+[2026.05.01-20.57.02:287][216]LogWorld: Bringing up level for play took: 0.002007
+[2026.05.01-20.57.02:289][216]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2026.05.01-20.57.02:291][216]LogBlueprintUserMessages: [BP_Sail_C_1] Start Game
+[2026.05.01-20.57.02:292][216]PIE: Server logged in
+[2026.05.01-20.57.02:295][216]PIE: Play in editor total start time 0.22 seconds.
+[2026.05.01-20.57.16:262][438]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.16:319][439]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.16:379][440]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.16:436][441]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.16:492][442]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.16:547][443]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.16:605][444]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.16:661][445]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.16:723][446]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.16:780][447]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.16:846][448]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.16:911][449]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.16:968][450]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:022][451]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:078][452]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:135][453]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:190][454]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:245][455]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:301][456]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:359][457]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:443][458]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:473][459]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:529][460]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:583][461]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:640][462]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:695][463]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:757][464]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:821][465]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:877][466]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:930][467]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.17:984][468]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:040][469]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:093][470]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:147][471]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:202][472]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:259][473]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:314][474]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:370][475]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:427][476]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:481][477]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:536][478]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:592][479]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:656][480]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:717][481]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:773][482]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:828][483]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:884][484]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:936][485]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.18:988][486]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:043][487]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:097][488]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:152][489]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:207][490]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:263][491]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:319][492]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:374][493]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:429][494]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:485][495]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:547][496]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:608][497]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:665][498]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:720][499]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:777][500]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:834][501]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:889][502]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:940][503]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.19:995][504]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:050][505]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:104][506]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:159][507]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:214][508]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:269][509]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:324][510]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:381][511]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:444][512]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:510][513]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:568][514]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:623][515]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:679][516]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:733][517]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:789][518]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:843][519]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:900][520]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.20:952][521]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.21:007][522]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.21:063][523]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.21:128][524]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.21:193][525]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.21:258][526]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.21:258][526]LogBlueprintUserMessages: [BP_Sail_C_1] Lowering mast no hit
+[2026.05.01-20.57.21:997][539]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.21:997][539]LogBlueprintUserMessages: [BP_Sail_C_1] Lowering mast no hit
+[2026.05.01-20.57.22:052][540]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.22:053][540]LogBlueprintUserMessages: [BP_Sail_C_1] Lowering mast no hit
+[2026.05.01-20.57.22:110][541]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.22:110][541]LogBlueprintUserMessages: [BP_Sail_C_1] Lowering mast no hit
+[2026.05.01-20.57.22:164][542]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.22:164][542]LogBlueprintUserMessages: [BP_Sail_C_1] Lowering mast no hit
+[2026.05.01-20.57.22:219][543]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.22:219][543]LogBlueprintUserMessages: [BP_Sail_C_1] Lowering mast no hit
+[2026.05.01-20.57.22:283][544]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.22:283][544]LogBlueprintUserMessages: [BP_Sail_C_1] Lowering mast no hit
+[2026.05.01-20.57.22:345][545]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.22:345][545]LogBlueprintUserMessages: [BP_Sail_C_1] Lowering mast no hit
+[2026.05.01-20.57.22:400][546]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.57.22:400][546]LogBlueprintUserMessages: [BP_Sail_C_1] Lowering mast no hit
+[2026.05.01-20.57.49:578][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-20.57.49:578][355]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-20.57.49:578][355]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-20.57.49:579][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-20.57.49:582][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.01-20.57.49:588][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-20.57.49:622][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-20.57.49:622][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2026.05.01-20.57.49:622][355]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=4
+[2026.05.01-20.57.49:624][355]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=2
+[2026.05.01-20.57.49:633][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.05.01-20.57.49:814][356]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2026.05.01-20.57.59:432][713]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.01-20.57.59:439][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.01-20.57.59:440][713]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-20.57.59:445][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005850s)
+[2026.05.01-20.57.59:446][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestMap.TestMap to /Game/Scenes/UEDPIE_0_TestMap.TestMap (0.005895s)
+[2026.05.01-20.57.59:480][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.05.01-20.57.59:483][713]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.05.01-20.57.59:485][713]LogPlayLevel: PIE: World Init took: (0.002074s)
+[2026.05.01-20.57.59:486][713]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2026.05.01-20.57.59:486][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.01-20.57.59:486][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.01-20.57.59:486][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.01-20.57.59:486][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.01-20.57.59:486][713]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.01-20.57.59:486][713]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.01-20.57.59:486][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.01-20.57.59:486][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.01-20.57.59:486][713]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.01-20.57.59:486][713]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.01-20.57.59:486][713]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.01-20.57.59:488][713]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.01-20.57.59:557][713]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.05.01-20.57.59:558][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.01-20.57.59:558][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.01-20.57.59:558][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.01-20.57.59:558][713]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2026.05.01-20.57.59:558][713]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2026.05.01-20.57.59:560][713]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2026.05.01-20.57.59:560][713]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2026.05.01-20.57.59:560][713]LogInit: FAudioDevice initialized with ID 39.
+[2026.05.01-20.57.59:560][713]LogAudio: Display: Audio Device (ID: 39) registered with world 'TestMap'.
+[2026.05.01-20.57.59:561][713]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2026.05.01-20.57.59:565][713]LogLoad: Game class is 'BP_GameMode_C'
+[2026.05.01-20.57.59:568][713]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2026.05.01-13.57.59
+[2026.05.01-20.57.59:568][713]LogWorld: Bringing up level for play took: 0.002562
+[2026.05.01-20.57.59:571][713]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2026.05.01-20.57.59:572][713]LogBlueprintUserMessages: [BP_Sail_C_1] Start Game
+[2026.05.01-20.57.59:573][713]PIE: Server logged in
+[2026.05.01-20.57.59:576][713]PIE: Play in editor total start time 0.137 seconds.
+[2026.05.01-20.58.01:573][728]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.01:725][729]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.01:876][730]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.02:035][731]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.02:190][732]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.02:341][733]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.02:492][734]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.02:639][735]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.02:794][736]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.02:971][737]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.03:149][738]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.03:321][739]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.03:469][740]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.03:619][741]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.03:766][742]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.03:945][743]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.04:094][744]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.04:247][745]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.04:396][746]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.04:548][747]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.04:698][748]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.04:847][749]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.04:999][750]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.05:153][751]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.05:302][752]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.05:482][753]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.05:658][754]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.05:837][755]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.05:987][756]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.06:133][757]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.06:284][758]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.06:429][759]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.06:429][759]LogBlueprintUserMessages: [BP_Sail_C_1] Lowering mast no hit
+[2026.05.01-20.58.07:880][768]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.07:880][768]LogBlueprintUserMessages: [BP_Sail_C_1] Lowering mast no hit
+[2026.05.01-20.58.08:060][769]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.08:060][769]LogBlueprintUserMessages: [BP_Sail_C_1] Lowering mast no hit
+[2026.05.01-20.58.08:279][770]LogBlueprintUserMessages: [BP_Sail_C_1] button
+[2026.05.01-20.58.08:279][770]LogBlueprintUserMessages: [BP_Sail_C_1] Lowering mast no hit
+[2026.05.01-20.58.15:158][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-20.58.15:159][814]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-20.58.15:159][814]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-20.58.15:159][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-20.58.15:447][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.01-20.58.15:455][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-20.58.15:494][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-20.58.15:495][814]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2026.05.01-20.58.15:495][814]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=4
+[2026.05.01-20.58.15:497][814]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=2
+[2026.05.01-20.58.15:507][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.05.01-20.58.15:880][815]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2026.05.01-20.58.16:724][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-20.58.17:333][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/TestMap" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Scenes/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.01-20.58.17:412][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.05.01-20.58.17:448][822]LogSavePackage: Moving output files for package: /Game/Scenes/TestMap
+[2026.05.01-20.58.17:449][822]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/TestMap3C11C36C4582246ECF8CCFB51DD956AB.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Scenes/TestMap.umap'
+[2026.05.01-20.58.17:463][822]LogFileHelpers: Saving map 'TestMap' took 0.130
+[2026.05.01-20.58.17:475][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 751.779 ms (total: 14.9 sec)
+[2026.05.01-20.58.17:531][822]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-20.58.17:531][822]LogContentValidation: Enabled validators:
+[2026.05.01-20.58.17:531][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-20.58.17:531][822]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-20.58.17:531][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-20.58.17:531][822]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-20.58.17:531][822]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-20.58.17:531][822]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-20.58.17:531][822]AssetCheck: /Game/Scenes/TestMap Validating asset
+[2026.05.01-20.58.27:512][155]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameSystems/Controls/ActorComponents/AC_FollowOther.AC_FollowOther
+[2026.05.01-20.58.27:512][155]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.05.01-20.58.31:847][329]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-20.58.31:847][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-20.58.32:048][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.05.01-20.58.44:045][  7]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameSystems/BP_GameInstance.BP_GameInstance
+[2026.05.01-20.58.44:045][  7]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.05.01-20.58.47:253][142]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14540.123047
+[2026.05.01-20.58.47:416][152]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-20.58.47:416][152]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14540.269531, Update Interval: 307.441620
+[2026.05.01-20.58.49:131][260]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-20.58.49:132][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-20.58.49:217][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.05.01-20.58.50:562][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameSystems/BP_GameMode.BP_GameMode
+[2026.05.01-20.58.50:562][328]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.05.01-20.58.53:123][400]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-20.58.53:123][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-20.58.53:236][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.05.01-20.58.54:328][452]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameSystems/BP_PlayerController.BP_PlayerController
+[2026.05.01-20.58.54:329][452]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.05.01-20.58.58:591][611]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-20.58.58:591][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-20.58.58:688][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.05.01-20.59.03:713][861]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Interfaces/BPI_Interactable.BPI_Interactable
+[2026.05.01-20.59.03:714][861]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.05.01-20.59.07:074][  3]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-20.59.07:074][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-20.59.07:161][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.05.01-20.59.09:997][139]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseInteractable.BP_BaseInteractable
+[2026.05.01-20.59.10:002][139]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.05.01-20.59.16:287][376]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-20.59.16:287][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-20.59.16:381][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.05.01-20.59.24:404][691]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-20.59.24:404][691]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-20.59.24:404][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-20.59.27:456][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.05.01-20.59.33:860][900]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-20.59.33:861][900]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-20.59.33:861][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-20.59.34:404][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.05.01-21.00.06:742][422]LogSlate: Window 'Color Picker' being destroyed
+[2026.05.01-21.00.08:556][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.05.01-21.00.09:024][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.00.09:089][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_DestroyTerrain] ([2] browsable assets)...
+[2026.05.01-21.00.09:089][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_DestroyTerrain]
+[2026.05.01-21.00.09:089][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DestroyTerrain" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_DestroyTerrain.uasset" SILENT=true
+[2026.05.01-21.00.09:101][531]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DestroyTerrain
+[2026.05.01-21.00.09:101][531]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_DestroyTerrain26E4E7984463CF4AF4F2F39B1FA6544D.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_DestroyTerrain.uasset'
+[2026.05.01-21.00.09:115][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.764 ms (total: 14.9 sec)
+[2026.05.01-21.00.09:170][531]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.00.09:170][531]LogContentValidation: Enabled validators:
+[2026.05.01-21.00.09:170][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.00.09:170][531]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.00.09:170][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.00.09:170][531]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.00.09:171][531]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.00.09:171][531]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.00.09:171][531]AssetCheck: /Game/Blueprints/BP_DestroyTerrain Validating asset
+[2026.05.01-21.00.12:708][681]LogSlate: External Image Picker: DecompressImage failed
+[2026.05.01-21.00.17:313][848]LogSlate: Window 'Project Settings' being destroyed
+[2026.05.01-21.00.17:324][848]LogSlate: Window 'Project Settings' being destroyed
+[2026.05.01-21.00.28:732][150]LogSlate: Window 'Color Picker' being destroyed
+[2026.05.01-21.00.29:851][198]LogSlate: Window 'Editor Preferences' being destroyed
+[2026.05.01-21.00.29:863][198]LogSlate: Window 'Editor Preferences' being destroyed
+[2026.05.01-21.00.31:129][249]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-21.00.31:129][249]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.00.31:129][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.00.31:224][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.05.01-21.00.34:185][379]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Hook.BP_Hook
+[2026.05.01-21.00.34:185][379]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.05.01-21.00.38:311][527]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.00.38:312][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.00.38:407][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.05.01-21.03.18:145][731]LogUObjectHash: Compacting FUObjectHashTables data took  15.58ms
+[2026.05.01-21.03.18:827][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.03.18:881][753]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Ladder] ([2] browsable assets)...
+[2026.05.01-21.03.18:933][753]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Ladder.BP_Ladder]
+[2026.05.01-21.03.18:933][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ladder]
+[2026.05.01-21.03.18:933][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ladder" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Ladder.uasset" SILENT=true
+[2026.05.01-21.03.18:977][753]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Ladder
+[2026.05.01-21.03.18:977][753]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Ladder76364A6944B27E4A639494B3B9116767.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Ladder.uasset'
+[2026.05.01-21.03.18:991][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.555 ms (total: 15.1 sec)
+[2026.05.01-21.03.19:063][753]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.03.19:063][753]LogContentValidation: Enabled validators:
+[2026.05.01-21.03.19:063][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.03.19:063][753]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.03.19:063][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.03.19:063][753]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.03.19:063][753]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.03.19:064][753]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.03.19:064][753]AssetCheck: /Game/Blueprints/BP_Ladder Validating asset
+[2026.05.01-21.03.20:330][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-21.03.20:330][812]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.03.20:330][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.03.20:452][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2026.05.01-21.04.29:193][886]LogEditorTransaction: Undo Move Nodes
+[2026.05.01-21.04.38:903][289]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14891.791016
+[2026.05.01-21.04.39:074][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-21.04.39:075][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14891.939453, Update Interval: 323.562744
+[2026.05.01-21.07.36:829][150]LogUObjectHash: Compacting FUObjectHashTables data took  19.02ms
+[2026.05.01-21.07.37:446][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.07.37:510][166]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MastButton] ([2] browsable assets)...
+[2026.05.01-21.07.37:559][166]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MastButton.BP_MastButton]
+[2026.05.01-21.07.37:559][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MastButton]
+[2026.05.01-21.07.37:559][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MastButton" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_MastButton.uasset" SILENT=true
+[2026.05.01-21.07.37:583][166]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MastButton
+[2026.05.01-21.07.37:584][166]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_MastButton769DC37046F09D9632A722AD04C0A68A.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_MastButton.uasset'
+[2026.05.01-21.07.37:598][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.379 ms (total: 15.3 sec)
+[2026.05.01-21.07.37:674][166]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.07.37:674][166]LogContentValidation: Enabled validators:
+[2026.05.01-21.07.37:674][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.07.37:674][166]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.07.37:674][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.07.37:674][166]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.07.37:674][166]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.07.37:674][166]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.07.37:674][166]AssetCheck: /Game/Blueprints/BP_MastButton Validating asset
+[2026.05.01-21.08.00:265][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2026.05.01-21.08.00:613][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.08.00:675][152]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MastButton] ([2] browsable assets)...
+[2026.05.01-21.08.00:726][152]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MastButton.BP_MastButton]
+[2026.05.01-21.08.00:726][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MastButton]
+[2026.05.01-21.08.00:726][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MastButton" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_MastButton.uasset" SILENT=true
+[2026.05.01-21.08.00:750][152]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MastButton
+[2026.05.01-21.08.00:751][152]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_MastButtonF413E92047E54948B4228896D3B8A6F3.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_MastButton.uasset'
+[2026.05.01-21.08.00:767][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.969 ms (total: 15.4 sec)
+[2026.05.01-21.08.00:806][152]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.08.00:806][152]LogContentValidation: Enabled validators:
+[2026.05.01-21.08.00:806][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.08.00:807][152]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.08.00:807][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.08.00:807][152]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.08.00:807][152]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.08.00:807][152]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.08.00:807][152]AssetCheck: /Game/Blueprints/BP_MastButton Validating asset
+[2026.05.01-21.08.28:131][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.08.28:194][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_MastButton] ([2] browsable assets)...
+[2026.05.01-21.08.28:194][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MastButton]
+[2026.05.01-21.08.28:194][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MastButton" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_MastButton.uasset" SILENT=true
+[2026.05.01-21.08.28:219][392]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MastButton
+[2026.05.01-21.08.28:220][392]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_MastButton20D3456547B7211F299A22ABAF46A208.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_MastButton.uasset'
+[2026.05.01-21.08.28:232][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.262 ms (total: 15.5 sec)
+[2026.05.01-21.08.28:292][392]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.08.28:293][392]LogContentValidation: Enabled validators:
+[2026.05.01-21.08.28:293][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.08.28:293][392]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.08.28:293][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.08.28:293][392]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.08.28:293][392]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.08.28:293][392]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.08.28:293][392]AssetCheck: /Game/Blueprints/BP_MastButton Validating asset
+[2026.05.01-21.09.35:165][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.05.01-21.09.35:693][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.09.35:747][448]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MastButton] ([2] browsable assets)...
+[2026.05.01-21.09.35:794][448]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MastButton.BP_MastButton]
+[2026.05.01-21.09.35:794][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MastButton]
+[2026.05.01-21.09.35:794][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MastButton" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_MastButton.uasset" SILENT=true
+[2026.05.01-21.09.35:817][448]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MastButton
+[2026.05.01-21.09.35:817][448]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_MastButtonF7D8EBCB40A9BCB2A2D193A62C755D3D.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_MastButton.uasset'
+[2026.05.01-21.09.35:831][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.720 ms (total: 15.7 sec)
+[2026.05.01-21.09.35:895][448]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.09.35:895][448]LogContentValidation: Enabled validators:
+[2026.05.01-21.09.35:895][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.09.35:895][448]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.09.35:895][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.09.35:895][448]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.09.35:895][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.09.35:895][448]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.09.35:895][448]AssetCheck: /Game/Blueprints/BP_MastButton Validating asset
+[2026.05.01-21.09.37:053][496]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-21.09.37:053][496]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.09.37:054][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.09.37:396][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.05.01-21.09.42:863][711]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-21.09.42:863][711]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.09.42:863][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.09.43:633][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.05.01-21.10.35:746][967]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15248.627930
+[2026.05.01-21.10.36:064][975]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-21.10.36:064][975]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15248.919922, Update Interval: 342.490906
+[2026.05.01-21.11.15:573][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.05.01-21.11.16:050][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.11.16:117][842]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_PlayerCharacter] ([2] browsable assets)...
+[2026.05.01-21.11.16:164][842]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter]
+[2026.05.01-21.11.16:164][842]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerCharacter]
+[2026.05.01-21.11.16:164][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerCharacter" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset" SILENT=true
+[2026.05.01-21.11.16:208][842]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerCharacter
+[2026.05.01-21.11.16:208][842]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_PlayerCharacter372CB8F443A535EBE82DEDB91BBA344C.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset'
+[2026.05.01-21.11.16:222][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.930 ms (total: 15.8 sec)
+[2026.05.01-21.11.16:348][842]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.11.16:349][842]LogContentValidation: Enabled validators:
+[2026.05.01-21.11.16:349][842]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.11.16:349][842]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.11.16:349][842]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.11.16:349][842]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.11.16:349][842]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.11.16:349][842]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.11.16:349][842]AssetCheck: /Game/Blueprints/BP_PlayerCharacter Validating asset
+[2026.05.01-21.11.39:919][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2026.05.01-21.11.40:429][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.11.40:487][918]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_PlayerCharacter] ([2] browsable assets)...
+[2026.05.01-21.11.40:534][918]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter]
+[2026.05.01-21.11.40:534][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerCharacter]
+[2026.05.01-21.11.40:534][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerCharacter" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset" SILENT=true
+[2026.05.01-21.11.40:563][918]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerCharacter
+[2026.05.01-21.11.40:564][918]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_PlayerCharacter648FF3DB4DC7E7C19BC052A935958652.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset'
+[2026.05.01-21.11.40:578][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.582 ms (total: 16.0 sec)
+[2026.05.01-21.11.40:633][918]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.11.40:633][918]LogContentValidation: Enabled validators:
+[2026.05.01-21.11.40:633][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.11.40:634][918]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.11.40:634][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.11.40:634][918]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.11.40:634][918]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.11.40:634][918]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.11.40:634][918]AssetCheck: /Game/Blueprints/BP_PlayerCharacter Validating asset
+[2026.05.01-21.12.24:603][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.05.01-21.12.25:173][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.12.25:239][848]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_PlayerCharacter] ([2] browsable assets)...
+[2026.05.01-21.12.25:286][848]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter]
+[2026.05.01-21.12.25:286][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerCharacter]
+[2026.05.01-21.12.25:286][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerCharacter" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset" SILENT=true
+[2026.05.01-21.12.25:315][848]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerCharacter
+[2026.05.01-21.12.25:316][848]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_PlayerCharacter28F12D2543465DCD3BD2A890D7B22031.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset'
+[2026.05.01-21.12.25:330][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.340 ms (total: 16.1 sec)
+[2026.05.01-21.12.25:403][848]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.12.25:403][848]LogContentValidation: Enabled validators:
+[2026.05.01-21.12.25:403][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.12.25:403][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.12.25:403][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.12.25:403][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.12.25:403][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.12.25:403][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.12.25:403][848]AssetCheck: /Game/Blueprints/BP_PlayerCharacter Validating asset
+[2026.05.01-21.12.45:409][712]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2026.05.01-21.12.46:098][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.12.46:153][729]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_PlayerCharacter] ([2] browsable assets)...
+[2026.05.01-21.12.46:202][729]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter]
+[2026.05.01-21.12.46:202][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerCharacter]
+[2026.05.01-21.12.46:202][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerCharacter" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset" SILENT=true
+[2026.05.01-21.12.46:230][729]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerCharacter
+[2026.05.01-21.12.46:230][729]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_PlayerCharacter57A368454E54D07FDDC08AA092EB32AA.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset'
+[2026.05.01-21.12.46:247][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.817 ms (total: 16.3 sec)
+[2026.05.01-21.12.46:304][729]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.12.46:304][729]LogContentValidation: Enabled validators:
+[2026.05.01-21.12.46:304][729]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.12.46:304][729]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.12.46:304][729]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.12.46:304][729]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.12.46:304][729]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.12.46:304][729]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.12.46:304][729]AssetCheck: /Game/Blueprints/BP_PlayerCharacter Validating asset
+[2026.05.01-21.12.57:022][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.12.57:088][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerCharacter] ([2] browsable assets)...
+[2026.05.01-21.12.57:088][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerCharacter]
+[2026.05.01-21.12.57:088][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerCharacter" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset" SILENT=true
+[2026.05.01-21.12.57:119][192]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerCharacter
+[2026.05.01-21.12.57:120][192]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_PlayerCharacterD9A26F6F407BCD21786C99BD5478C2C2.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset'
+[2026.05.01-21.12.57:133][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.938 ms (total: 16.4 sec)
+[2026.05.01-21.12.57:186][192]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.12.57:186][192]LogContentValidation: Enabled validators:
+[2026.05.01-21.12.57:186][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.12.57:187][192]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.12.57:187][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.12.57:187][192]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.12.57:187][192]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.12.57:187][192]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.12.57:187][192]AssetCheck: /Game/Blueprints/BP_PlayerCharacter Validating asset
+[2026.05.01-21.13.48:316][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.05.01-21.13.48:815][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.13.48:874][333]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_PlayerCharacter] ([2] browsable assets)...
+[2026.05.01-21.13.48:921][333]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter]
+[2026.05.01-21.13.48:921][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerCharacter]
+[2026.05.01-21.13.48:921][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerCharacter" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset" SILENT=true
+[2026.05.01-21.13.48:950][333]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerCharacter
+[2026.05.01-21.13.48:951][333]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_PlayerCharacterF3BDD2984AC97B1D781FA1B9B57FC385.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset'
+[2026.05.01-21.13.48:965][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.098 ms (total: 16.5 sec)
+[2026.05.01-21.13.49:022][333]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.13.49:023][333]LogContentValidation: Enabled validators:
+[2026.05.01-21.13.49:023][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.13.49:023][333]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.13.49:023][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.13.49:023][333]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.13.49:023][333]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.13.49:023][333]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.13.49:023][333]AssetCheck: /Game/Blueprints/BP_PlayerCharacter Validating asset
+[2026.05.01-21.14.31:116][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.05.01-21.14.31:881][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.14.31:942][333]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_PlayerCharacter] ([2] browsable assets)...
+[2026.05.01-21.14.31:990][333]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter]
+[2026.05.01-21.14.31:990][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerCharacter]
+[2026.05.01-21.14.31:990][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerCharacter" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset" SILENT=true
+[2026.05.01-21.14.32:017][333]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerCharacter
+[2026.05.01-21.14.32:017][333]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_PlayerCharacter76A6C3D04E6923744B97D6A342ABC799.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset'
+[2026.05.01-21.14.32:032][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.549 ms (total: 16.7 sec)
+[2026.05.01-21.14.32:091][333]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.14.32:091][333]LogContentValidation: Enabled validators:
+[2026.05.01-21.14.32:091][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.14.32:091][333]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.14.32:091][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.14.32:091][333]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.14.32:091][333]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.14.32:091][333]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.14.32:091][333]AssetCheck: /Game/Blueprints/BP_PlayerCharacter Validating asset
+[2026.05.01-21.14.32:954][368]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-21.14.32:954][368]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.14.32:954][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.14.33:351][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.05.01-21.16.08:071][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.05.01-21.16.08:548][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.16.08:623][638]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Rigging] ([2] browsable assets)...
+[2026.05.01-21.16.08:667][638]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Rigging.BP_Rigging]
+[2026.05.01-21.16.08:668][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rigging]
+[2026.05.01-21.16.08:668][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rigging" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Rigging.uasset" SILENT=true
+[2026.05.01-21.16.08:695][638]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Rigging
+[2026.05.01-21.16.08:695][638]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Rigging060447B544AF8F0E5C12E9AA6D0B9D12.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Rigging.uasset'
+[2026.05.01-21.16.08:709][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.556 ms (total: 16.9 sec)
+[2026.05.01-21.16.08:777][638]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.16.08:778][638]LogContentValidation: Enabled validators:
+[2026.05.01-21.16.08:778][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.16.08:778][638]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.16.08:778][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.16.08:778][638]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.16.08:778][638]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.16.08:778][638]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.16.08:778][638]AssetCheck: /Game/Blueprints/BP_Rigging Validating asset
+[2026.05.01-21.16.29:535][532]LogEditorTransaction: Undo Delete current selection
+[2026.05.01-21.16.29:856][533]LogEditorTransaction: Undo Move Node
+[2026.05.01-21.16.32:324][622]LogEditorTransaction: Redo Move Node
+[2026.05.01-21.16.52:572][474]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15625.395508
+[2026.05.01-21.16.52:744][480]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-21.16.52:744][480]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15625.542969, Update Interval: 342.298645
+[2026.05.01-21.17.20:377][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.05.01-21.17.20:390][659]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/TestMap' took 0.048
+[2026.05.01-21.17.20:423][659]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Rigging] ([2] browsable assets)...
+[2026.05.01-21.17.20:472][659]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Rigging.BP_Rigging]
+[2026.05.01-21.17.20:472][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rigging]
+[2026.05.01-21.17.20:495][659]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Rigging_Auto1
+[2026.05.01-21.17.20:495][659]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Rigging_Auto134A7F5A0435291F11DBF11929926D5D8.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/Autosaves/Game/Blueprints/BP_Rigging_Auto1.uasset'
+[2026.05.01-21.17.20:496][659]LogFileHelpers: Auto-saving content packages took 0.074
+[2026.05.01-21.17.57:597][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.05.01-21.17.58:123][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.17.58:184][247]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Rigging] ([2] browsable assets)...
+[2026.05.01-21.17.58:231][247]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Rigging.BP_Rigging]
+[2026.05.01-21.17.58:232][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rigging]
+[2026.05.01-21.17.58:232][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rigging" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Rigging.uasset" SILENT=true
+[2026.05.01-21.17.58:257][247]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Rigging
+[2026.05.01-21.17.58:258][247]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_RiggingAE0D4360457C9F73B7A70BAAB7AFE57B.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Rigging.uasset'
+[2026.05.01-21.17.58:272][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.480 ms (total: 17.0 sec)
+[2026.05.01-21.17.58:337][247]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.17.58:337][247]LogContentValidation: Enabled validators:
+[2026.05.01-21.17.58:337][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.17.58:337][247]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.17.58:337][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.17.58:337][247]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.17.58:337][247]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.17.58:337][247]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.17.58:337][247]AssetCheck: /Game/Blueprints/BP_Rigging Validating asset
+[2026.05.01-21.19.51:158][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2026.05.01-21.19.51:652][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.19.51:706][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Rigging] ([2] browsable assets)...
+[2026.05.01-21.19.51:753][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Rigging.BP_Rigging]
+[2026.05.01-21.19.51:753][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rigging]
+[2026.05.01-21.19.51:753][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rigging" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Rigging.uasset" SILENT=true
+[2026.05.01-21.19.51:778][450]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Rigging
+[2026.05.01-21.19.51:778][450]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Rigging9A1783A2467E7A305A8997B230641DAA.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Rigging.uasset'
+[2026.05.01-21.19.51:792][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.171 ms (total: 17.1 sec)
+[2026.05.01-21.19.51:854][450]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.19.51:854][450]LogContentValidation: Enabled validators:
+[2026.05.01-21.19.51:854][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.19.51:854][450]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.19.51:854][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.19.51:854][450]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.19.51:854][450]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.19.51:854][450]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.19.51:854][450]AssetCheck: /Game/Blueprints/BP_Rigging Validating asset
+[2026.05.01-21.20.09:747][207]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-21.20.09:747][207]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.20.09:747][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.20.10:071][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.05.01-21.20.12:517][315]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_RigStart.BP_RigStart
+[2026.05.01-21.20.12:518][315]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.05.01-21.20.16:399][470]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.20.16:400][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.20.16:489][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.05.01-21.20.36:331][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.05.01-21.20.37:286][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.20.37:323][336]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.05.01-21.20.37:373][336]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.05.01-21.20.37:373][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.05.01-21.20.37:373][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.05.01-21.20.37:415][336]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.05.01-21.20.37:416][336]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Sail15AF527F4D1089D978BA09BDFE01B6A9.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.05.01-21.20.37:432][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.811 ms (total: 17.3 sec)
+[2026.05.01-21.20.37:490][336]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.20.37:490][336]LogContentValidation: Enabled validators:
+[2026.05.01-21.20.37:490][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.20.37:490][336]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.20.37:490][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.20.37:490][336]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.20.37:490][336]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.20.37:490][336]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.20.37:490][336]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.05.01-21.20.42:182][537]LogEditorTransaction: Undo Move Nodes
+[2026.05.01-21.23.11:234][278]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16004.033203
+[2026.05.01-21.23.11:398][286]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-21.23.11:398][286]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16004.177734, Update Interval: 350.022278
+[2026.05.01-21.27.52:488][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.05.01-21.27.52:916][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.27.52:983][504]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.05.01-21.27.53:032][504]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.05.01-21.27.53:032][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.05.01-21.27.53:032][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.05.01-21.27.53:071][504]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.05.01-21.27.53:071][504]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_SailEFAD6B2E44DFD804790D15B55F7B010E.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.05.01-21.27.53:085][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.059 ms (total: 17.5 sec)
+[2026.05.01-21.27.53:141][504]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.27.53:141][504]LogContentValidation: Enabled validators:
+[2026.05.01-21.27.53:141][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.27.53:141][504]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.27.53:141][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.27.53:141][504]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.27.53:141][504]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.27.53:141][504]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.27.53:141][504]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.05.01-21.28.07:852][110]LogEditorTransaction: Undo Move Nodes
+[2026.05.01-21.28.39:941][391]LogBlueprint: Warning: [AssetLog] D:\Github Repos\FeatureProject_Zeibert_Abby\FeatureProject\Content\Blueprints\BP_MastButton.uasset: [Compiler] Input pin  From Who  specifying non-default value no longer exists on node  ToggleMast . Please refresh node or reset pin to default value to remove pin.
+[2026.05.01-21.28.39:948][391]LogBlueprint: Warning: [AssetLog] D:\Github Repos\FeatureProject_Zeibert_Abby\FeatureProject\Content\Blueprints\BP_Sail.uasset: [Compiler] Input pin  From Who  specifying non-default value no longer exists on node  ToggleMast . Please refresh node or reset pin to default value to remove pin.
+[2026.05.01-21.28.39:948][391]LogBlueprint: Warning: [AssetLog] D:\Github Repos\FeatureProject_Zeibert_Abby\FeatureProject\Content\Blueprints\BP_Sail.uasset: [Compiler] Input pin  From Who  specifying non-default value no longer exists on node  ToggleMast . Please refresh node or reset pin to default value to remove pin.
+[2026.05.01-21.28.40:039][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.05.01-21.28.56:138][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.05.01-21.28.57:006][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.28.57:061][173]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.05.01-21.28.57:131][173]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.05.01-21.28.57:131][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.05.01-21.28.57:131][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.05.01-21.28.57:168][173]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.05.01-21.28.57:168][173]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Sail02F7BB67414E9FC1D05C7E8B0F3F9304.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.05.01-21.28.57:181][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.910 ms (total: 17.6 sec)
+[2026.05.01-21.28.57:244][173]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.28.57:244][173]LogContentValidation: Enabled validators:
+[2026.05.01-21.28.57:244][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.28.57:244][173]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.28.57:244][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.28.57:244][173]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.28.57:244][173]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.28.57:244][173]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.28.57:244][173]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.05.01-21.29.06:126][599]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_MastButton.BP_MastButton
+[2026.05.01-21.29.06:127][599]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.05.01-21.29.10:583][770]LogUObjectHash: Compacting FUObjectHashTables data took  23.62ms
+[2026.05.01-21.29.11:064][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.29.11:113][783]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_MastButton] ([2] browsable assets)...
+[2026.05.01-21.29.11:158][783]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MastButton.BP_MastButton]
+[2026.05.01-21.29.11:159][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MastButton]
+[2026.05.01-21.29.11:159][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MastButton" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_MastButton.uasset" SILENT=true
+[2026.05.01-21.29.11:181][783]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MastButton
+[2026.05.01-21.29.11:182][783]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_MastButton4443FB584790852147E205BAF581AEF9.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_MastButton.uasset'
+[2026.05.01-21.29.11:196][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.650 ms (total: 17.8 sec)
+[2026.05.01-21.29.11:261][783]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.29.11:261][783]LogContentValidation: Enabled validators:
+[2026.05.01-21.29.11:261][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.29.11:261][783]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.29.11:261][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.29.11:261][783]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.29.11:261][783]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.29.11:261][783]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.29.11:261][783]AssetCheck: /Game/Blueprints/BP_MastButton Validating asset
+[2026.05.01-21.29.54:274][687]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16407.039062
+[2026.05.01-21.29.54:456][695]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-21.29.54:456][695]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16407.201172, Update Interval: 303.226410
+[2026.05.01-21.30.22:016][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.05.01-21.30.22:804][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.30.22:867][979]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.05.01-21.30.22:914][979]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.05.01-21.30.22:914][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.05.01-21.30.22:914][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.05.01-21.30.22:952][979]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.05.01-21.30.22:953][979]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_SailB07280934874A4D749A35FB7A903808B.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.05.01-21.30.22:967][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.866 ms (total: 17.9 sec)
+[2026.05.01-21.30.23:031][979]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.30.23:031][979]LogContentValidation: Enabled validators:
+[2026.05.01-21.30.23:031][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.30.23:031][979]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.30.23:031][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.30.23:031][979]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.30.23:031][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.30.23:031][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.30.23:031][979]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.05.01-21.31.36:840][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.05.01-21.31.37:620][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.31.37:685][234]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.05.01-21.31.37:732][234]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.05.01-21.31.37:732][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.05.01-21.31.37:732][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.05.01-21.31.37:785][234]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.05.01-21.31.37:786][234]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Sail5D2FD92A41C30F04E3523EA334920F40.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.05.01-21.31.37:799][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 179.952 ms (total: 18.1 sec)
+[2026.05.01-21.31.37:884][234]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.31.37:884][234]LogContentValidation: Enabled validators:
+[2026.05.01-21.31.37:884][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.31.37:884][234]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.31.37:884][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.31.37:884][234]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.31.37:884][234]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.31.37:884][234]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.31.37:884][234]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.05.01-21.32.44:329][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.05.01-21.32.44:929][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.32.44:994][164]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.05.01-21.32.45:043][164]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.05.01-21.32.45:043][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.05.01-21.32.45:043][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.05.01-21.32.45:080][164]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.05.01-21.32.45:081][164]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_SailA5E4106F43ECCF555A792EA8AE90E386.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.05.01-21.32.45:093][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.867 ms (total: 18.3 sec)
+[2026.05.01-21.32.45:157][164]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.32.45:157][164]LogContentValidation: Enabled validators:
+[2026.05.01-21.32.45:157][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.32.45:157][164]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.32.45:157][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.32.45:157][164]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.32.45:157][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.32.45:157][164]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.32.45:157][164]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.05.01-21.33.09:865][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.05.01-21.33.11:032][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.33.11:089][210]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.05.01-21.33.11:137][210]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.05.01-21.33.11:137][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.05.01-21.33.11:137][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.05.01-21.33.11:178][210]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.05.01-21.33.11:178][210]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_SailB6251F894A603CA2FED9B08882080169.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.05.01-21.33.11:194][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.915 ms (total: 18.4 sec)
+[2026.05.01-21.33.11:255][210]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.33.11:255][210]LogContentValidation: Enabled validators:
+[2026.05.01-21.33.11:255][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.33.11:255][210]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.33.11:255][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.33.11:255][210]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.33.11:255][210]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.33.11:255][210]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.33.11:255][210]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.05.01-21.33.18:979][527]LogUObjectHash: Compacting FUObjectHashTables data took  31.66ms
+[2026.05.01-21.33.19:367][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.33.19:422][530]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.05.01-21.33.19:431][530]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.05.01-21.33.19:431][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.05.01-21.33.19:431][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.05.01-21.33.19:470][530]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.05.01-21.33.19:471][530]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_SailD5CFC68A4E1B9D5D168136BFF40E7FFB.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.05.01-21.33.19:483][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.470 ms (total: 18.6 sec)
+[2026.05.01-21.33.19:539][530]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.33.19:539][530]LogContentValidation: Enabled validators:
+[2026.05.01-21.33.19:539][530]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.33.19:539][530]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.33.19:539][530]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.33.19:539][530]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.33.19:539][530]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.33.19:539][530]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.33.19:539][530]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.05.01-21.35.48:218][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16761.103516
+[2026.05.01-21.35.48:402][502]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-21.35.48:402][502]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16761.265625, Update Interval: 323.412567
+[2026.05.01-21.36.52:887][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.05.01-21.36.53:186][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.36.53:248][566]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.05.01-21.36.53:258][566]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.05.01-21.36.53:258][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.05.01-21.36.53:258][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.05.01-21.36.53:299][566]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.05.01-21.36.53:299][566]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Sail69874E15435B8C3D546D02B7B106340E.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.05.01-21.36.53:310][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.099 ms (total: 18.7 sec)
+[2026.05.01-21.36.53:367][566]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.36.53:367][566]LogContentValidation: Enabled validators:
+[2026.05.01-21.36.53:367][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.36.53:367][566]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.36.53:367][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.36.53:367][566]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.36.53:367][566]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.36.53:367][566]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.36.53:367][566]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.05.01-21.38.20:118][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.05.01-21.38.20:934][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.38.21:001][588]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.05.01-21.38.21:052][588]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.05.01-21.38.21:052][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.05.01-21.38.21:052][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.05.01-21.38.21:090][588]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.05.01-21.38.21:090][588]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Sail75E10B6447B6EE3694C31EAC0400A37E.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.05.01-21.38.21:105][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.908 ms (total: 18.8 sec)
+[2026.05.01-21.38.21:186][588]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.38.21:186][588]LogContentValidation: Enabled validators:
+[2026.05.01-21.38.21:186][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.38.21:186][588]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.38.21:186][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.38.21:186][588]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.38.21:186][588]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.38.21:186][588]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.38.21:186][588]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.05.01-21.38.35:610][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2026.05.01-21.38.36:069][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.38.36:137][237]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.05.01-21.38.36:184][237]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.05.01-21.38.36:184][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.05.01-21.38.36:184][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.05.01-21.38.36:223][237]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.05.01-21.38.36:224][237]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Sail388010AC4639DB7EB045A5AFE638F38D.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.05.01-21.38.36:239][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.728 ms (total: 19.0 sec)
+[2026.05.01-21.38.36:301][237]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.38.36:302][237]LogContentValidation: Enabled validators:
+[2026.05.01-21.38.36:302][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.38.36:302][237]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.38.36:302][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.38.36:302][237]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.38.36:302][237]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.38.36:302][237]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.38.36:302][237]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.05.01-21.38.46:642][626]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.38.46:642][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.38.47:400][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.05.01-21.39.22:231][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.05.01-21.39.22:739][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.39.22:807][425]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_SailObject] ([2] browsable assets)...
+[2026.05.01-21.39.22:856][425]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_SailObject.BP_SailObject]
+[2026.05.01-21.39.22:856][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_SailObject]
+[2026.05.01-21.39.22:856][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SailObject" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_SailObject.uasset" SILENT=true
+[2026.05.01-21.39.22:868][425]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SailObject
+[2026.05.01-21.39.22:868][425]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_SailObjectC381C2374602B549DBA65A96D757F7FC.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_SailObject.uasset'
+[2026.05.01-21.39.22:883][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.054 ms (total: 19.2 sec)
+[2026.05.01-21.39.22:937][425]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.39.22:937][425]LogContentValidation: Enabled validators:
+[2026.05.01-21.39.22:937][425]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.39.22:937][425]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.39.22:937][425]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.39.22:937][425]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.39.22:937][425]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.39.22:937][425]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.39.22:937][425]AssetCheck: /Game/Blueprints/BP_SailObject Validating asset
+[2026.05.01-21.39.27:132][631]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-21.39.27:132][631]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.39.27:132][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.39.27:611][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.05.01-21.39.31:607][786]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-21.39.31:607][786]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.39.31:607][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.39.31:685][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.05.01-21.39.33:899][887]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.05.01-21.39.33:922][887]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.05.01-21.39.34:496][918]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SpeedFlag.BP_SpeedFlag
+[2026.05.01-21.39.34:496][918]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.05.01-21.40.44:143][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.05.01-21.40.44:452][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.40.44:533][497]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_SpeedFlag] ([2] browsable assets)...
+[2026.05.01-21.40.44:579][497]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_SpeedFlag.BP_SpeedFlag]
+[2026.05.01-21.40.44:579][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_SpeedFlag]
+[2026.05.01-21.40.44:579][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpeedFlag" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_SpeedFlag.uasset" SILENT=true
+[2026.05.01-21.40.44:593][497]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpeedFlag
+[2026.05.01-21.40.44:594][497]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_SpeedFlagEDAA260F4F497F42D83FD48CB180D233.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_SpeedFlag.uasset'
+[2026.05.01-21.40.44:608][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.141 ms (total: 19.3 sec)
+[2026.05.01-21.40.44:690][497]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.40.44:690][497]LogContentValidation: Enabled validators:
+[2026.05.01-21.40.44:690][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.40.44:690][497]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.40.44:690][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.40.44:690][497]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.40.44:690][497]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.40.44:690][497]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.40.44:690][497]AssetCheck: /Game/Blueprints/BP_SpeedFlag Validating asset
+[2026.05.01-21.40.47:324][632]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.40.47:325][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.40.47:413][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2026.05.01-21.40.49:437][723]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Steering.BP_Steering
+[2026.05.01-21.40.49:438][723]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2026.05.01-21.41.51:755][544]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17124.822266
+[2026.05.01-21.41.51:955][553]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-21.41.51:955][553]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17125.001953, Update Interval: 349.542542
+[2026.05.01-21.42.12:053][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.05.01-21.42.12:058][462]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/TestMap' took 0.058
+[2026.05.01-21.42.12:058][462]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Steering] ([2] browsable assets)...
+[2026.05.01-21.42.12:103][462]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Steering.BP_Steering]
+[2026.05.01-21.42.12:103][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Steering]
+[2026.05.01-21.42.12:166][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Steering_Auto2
+[2026.05.01-21.42.12:166][462]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Steering_Auto22132821F4782D513F033FF930F42A027.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/Autosaves/Game/Blueprints/BP_Steering_Auto2.uasset'
+[2026.05.01-21.42.12:167][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerCharacter] ([2] browsable assets)...
+[2026.05.01-21.42.12:167][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerCharacter]
+[2026.05.01-21.42.12:210][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_PlayerCharacter_Auto2
+[2026.05.01-21.42.12:211][462]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_PlayerCharacter_Auto224A623B54D42AE0AD312FE9148B6B819.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/Autosaves/Game/Blueprints/BP_PlayerCharacter_Auto2.uasset'
+[2026.05.01-21.42.12:212][462]LogFileHelpers: Auto-saving content packages took 0.154
+[2026.05.01-21.44.18:864][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.05.01-21.44.20:256][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.44.20:325][280]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Steering] ([2] browsable assets)...
+[2026.05.01-21.44.20:376][280]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Steering.BP_Steering]
+[2026.05.01-21.44.20:376][280]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Steering]
+[2026.05.01-21.44.20:376][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Steering" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Steering.uasset" SILENT=true
+[2026.05.01-21.44.20:403][280]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Steering
+[2026.05.01-21.44.20:404][280]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_SteeringB89513984BC16304BD37AE82E9B1818D.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Steering.uasset'
+[2026.05.01-21.44.20:417][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.784 ms (total: 19.5 sec)
+[2026.05.01-21.44.20:482][280]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.44.20:482][280]LogContentValidation: Enabled validators:
+[2026.05.01-21.44.20:482][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.44.20:482][280]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.44.20:482][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.44.20:482][280]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.44.20:482][280]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.44.20:482][280]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.44.20:482][280]AssetCheck: /Game/Blueprints/BP_Steering Validating asset
+[2026.05.01-21.44.21:911][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.05.01-21.44.23:404][337]LogSlate: Window 'Save Content' being destroyed
+[2026.05.01-21.44.23:416][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.44.23:467][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerCharacter] ([2] browsable assets)...
+[2026.05.01-21.44.23:467][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerCharacter]
+[2026.05.01-21.44.23:467][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerCharacter" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset" SILENT=true
+[2026.05.01-21.44.23:495][337]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerCharacter
+[2026.05.01-21.44.23:495][337]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_PlayerCharacter0B505A054A7F2E4D986B43B39FF884BB.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_PlayerCharacter.uasset'
+[2026.05.01-21.44.23:507][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.952 ms (total: 19.6 sec)
+[2026.05.01-21.44.23:548][337]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.44.23:548][337]LogContentValidation: Enabled validators:
+[2026.05.01-21.44.23:548][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.44.23:548][337]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.44.23:548][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.44.23:548][337]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.44.23:548][337]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.44.23:548][337]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.44.23:548][337]AssetCheck: /Game/Blueprints/BP_PlayerCharacter Validating asset
+[2026.05.01-21.45.34:372][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.05.01-21.45.34:850][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.45.34:885][648]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Steering] ([2] browsable assets)...
+[2026.05.01-21.45.34:932][648]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Steering.BP_Steering]
+[2026.05.01-21.45.34:932][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Steering]
+[2026.05.01-21.45.34:932][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Steering" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Steering.uasset" SILENT=true
+[2026.05.01-21.45.34:981][648]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Steering
+[2026.05.01-21.45.34:982][648]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_SteeringAAB33735443974845E89828BC7F683A3.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Steering.uasset'
+[2026.05.01-21.45.34:996][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.964 ms (total: 19.7 sec)
+[2026.05.01-21.45.35:054][648]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.45.35:054][648]LogContentValidation: Enabled validators:
+[2026.05.01-21.45.35:054][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.45.35:054][648]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.45.35:054][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.45.35:054][648]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.45.35:054][648]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.45.35:054][648]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.45.35:054][648]AssetCheck: /Game/Blueprints/BP_Steering Validating asset
+[2026.05.01-21.45.40:578][899]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.45.40:578][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.45.40:682][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.05.01-21.45.49:516][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.05.01-21.45.50:104][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.45.50:171][292]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Vessel] ([2] browsable assets)...
+[2026.05.01-21.45.50:218][292]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Vessel.BP_Vessel]
+[2026.05.01-21.45.50:218][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Vessel]
+[2026.05.01-21.45.50:218][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Vessel" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset" SILENT=true
+[2026.05.01-21.45.50:242][292]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Vessel
+[2026.05.01-21.45.50:242][292]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_VesselAF90CD8C47A7C7CEB6005AA6B5004EFA.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset'
+[2026.05.01-21.45.50:256][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.006 ms (total: 19.9 sec)
+[2026.05.01-21.45.50:304][292]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.45.50:305][292]LogContentValidation: Enabled validators:
+[2026.05.01-21.45.50:305][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.45.50:305][292]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.45.50:305][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.45.50:305][292]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.45.50:305][292]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.45.50:305][292]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.45.50:305][292]AssetCheck: /Game/Blueprints/BP_Vessel Validating asset
+[2026.05.01-21.46.26:413][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.05.01-21.46.26:890][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.46.26:959][966]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Vessel] ([2] browsable assets)...
+[2026.05.01-21.46.27:008][966]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Vessel.BP_Vessel]
+[2026.05.01-21.46.27:008][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Vessel]
+[2026.05.01-21.46.27:008][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Vessel" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset" SILENT=true
+[2026.05.01-21.46.27:032][966]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Vessel
+[2026.05.01-21.46.27:033][966]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Vessel0C0AB6664C06EE02EDC9CDA7E8EE3426.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset'
+[2026.05.01-21.46.27:046][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.651 ms (total: 20.0 sec)
+[2026.05.01-21.46.27:103][966]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.46.27:103][966]LogContentValidation: Enabled validators:
+[2026.05.01-21.46.27:103][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.46.27:103][966]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.46.27:103][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.46.27:103][966]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.46.27:103][966]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.46.27:103][966]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.46.27:103][966]AssetCheck: /Game/Blueprints/BP_Vessel Validating asset
+[2026.05.01-21.46.40:330][574]LogEditorTransaction: Undo Add Node
+[2026.05.01-21.47.05:837][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.05.01-21.47.06:295][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.47.06:341][765]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Vessel] ([2] browsable assets)...
+[2026.05.01-21.47.06:388][765]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Vessel.BP_Vessel]
+[2026.05.01-21.47.06:388][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Vessel]
+[2026.05.01-21.47.06:388][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Vessel" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset" SILENT=true
+[2026.05.01-21.47.06:410][765]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Vessel
+[2026.05.01-21.47.06:411][765]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_VesselBF0B19204BCB9112ED61FF842D291EF4.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset'
+[2026.05.01-21.47.06:425][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.641 ms (total: 20.2 sec)
+[2026.05.01-21.47.06:490][765]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.47.06:490][765]LogContentValidation: Enabled validators:
+[2026.05.01-21.47.06:490][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.47.06:490][765]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.47.06:490][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.47.06:490][765]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.47.06:490][765]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.47.06:490][765]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.47.06:490][765]AssetCheck: /Game/Blueprints/BP_Vessel Validating asset
+[2026.05.01-21.47.54:235][ 12]LogEditorTransaction: Undo Add Node
+[2026.05.01-21.48.19:914][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2026.05.01-21.48.20:321][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.48.20:378][241]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Vessel] ([2] browsable assets)...
+[2026.05.01-21.48.20:424][241]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Vessel.BP_Vessel]
+[2026.05.01-21.48.20:424][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Vessel]
+[2026.05.01-21.48.20:424][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Vessel" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset" SILENT=true
+[2026.05.01-21.48.20:445][241]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Vessel
+[2026.05.01-21.48.20:445][241]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Vessel8904164141D5B5649E2235A684854240.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset'
+[2026.05.01-21.48.20:459][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.942 ms (total: 20.3 sec)
+[2026.05.01-21.48.20:526][241]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.48.20:526][241]LogContentValidation: Enabled validators:
+[2026.05.01-21.48.20:526][241]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.48.20:526][241]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.48.20:526][241]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.48.20:527][241]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.48.20:527][241]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.48.20:527][241]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.48.20:527][241]AssetCheck: /Game/Blueprints/BP_Vessel Validating asset
+[2026.05.01-21.48.38:131][ 72]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17531.660156
+[2026.05.01-21.48.38:298][ 80]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-21.48.38:298][ 80]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17531.808594, Update Interval: 316.540436
+[2026.05.01-21.49.21:696][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.05.01-21.49.22:213][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.49.22:280][128]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Vessel] ([2] browsable assets)...
+[2026.05.01-21.49.22:325][128]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Vessel.BP_Vessel]
+[2026.05.01-21.49.22:325][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Vessel]
+[2026.05.01-21.49.22:325][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Vessel" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset" SILENT=true
+[2026.05.01-21.49.22:346][128]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Vessel
+[2026.05.01-21.49.22:347][128]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Vessel242D03A7488DA11A0710BA97E1F28061.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset'
+[2026.05.01-21.49.22:361][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.862 ms (total: 20.4 sec)
+[2026.05.01-21.49.22:445][128]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.49.22:445][128]LogContentValidation: Enabled validators:
+[2026.05.01-21.49.22:445][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.49.22:445][128]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.49.22:445][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.49.22:445][128]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.49.22:445][128]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.49.22:445][128]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.49.22:445][128]AssetCheck: /Game/Blueprints/BP_Vessel Validating asset
+[2026.05.01-21.50.09:509][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.05.01-21.50.09:880][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.50.09:931][478]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Vessel] ([2] browsable assets)...
+[2026.05.01-21.50.09:978][478]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Vessel.BP_Vessel]
+[2026.05.01-21.50.09:978][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Vessel]
+[2026.05.01-21.50.09:978][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Vessel" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset" SILENT=true
+[2026.05.01-21.50.10:000][478]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Vessel
+[2026.05.01-21.50.10:000][478]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Vessel6BC737E948C2C9719C0911ABD3897CE4.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset'
+[2026.05.01-21.50.10:014][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.710 ms (total: 20.6 sec)
+[2026.05.01-21.50.10:097][478]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.50.10:097][478]LogContentValidation: Enabled validators:
+[2026.05.01-21.50.10:098][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.50.10:098][478]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.50.10:098][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.50.10:098][478]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.50.10:098][478]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.50.10:098][478]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.50.10:098][478]AssetCheck: /Game/Blueprints/BP_Vessel Validating asset
+[2026.05.01-21.51.09:005][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2026.05.01-21.51.09:535][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.51.09:603][316]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Vessel] ([2] browsable assets)...
+[2026.05.01-21.51.09:649][316]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Vessel.BP_Vessel]
+[2026.05.01-21.51.09:649][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Vessel]
+[2026.05.01-21.51.09:649][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Vessel" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset" SILENT=true
+[2026.05.01-21.51.09:670][316]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Vessel
+[2026.05.01-21.51.09:671][316]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_VesselF984D4244C370C4A15C48A9C94B06CAB.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset'
+[2026.05.01-21.51.09:686][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.828 ms (total: 20.7 sec)
+[2026.05.01-21.51.09:748][316]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.51.09:748][316]LogContentValidation: Enabled validators:
+[2026.05.01-21.51.09:748][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.51.09:748][316]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.51.09:748][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.51.09:748][316]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.51.09:748][316]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.51.09:748][316]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.51.09:749][316]AssetCheck: /Game/Blueprints/BP_Vessel Validating asset
+[2026.05.01-21.51.39:632][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.05.01-21.51.40:048][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.51.40:102][759]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Vessel] ([2] browsable assets)...
+[2026.05.01-21.51.40:154][759]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Vessel.BP_Vessel]
+[2026.05.01-21.51.40:154][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Vessel]
+[2026.05.01-21.51.40:154][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Vessel" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset" SILENT=true
+[2026.05.01-21.51.40:179][759]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Vessel
+[2026.05.01-21.51.40:179][759]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Vessel984F74E0491E8272CD8C6C89D5F31D3D.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset'
+[2026.05.01-21.51.40:195][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.206 ms (total: 20.9 sec)
+[2026.05.01-21.51.40:258][759]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.51.40:259][759]LogContentValidation: Enabled validators:
+[2026.05.01-21.51.40:259][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.51.40:259][759]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.51.40:259][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.51.40:259][759]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.51.40:259][759]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.51.40:259][759]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.51.40:259][759]AssetCheck: /Game/Blueprints/BP_Vessel Validating asset
+[2026.05.01-21.51.43:947][928]LogSlate: Window 'BP_Vessel' being destroyed
+[2026.05.01-21.51.43:999][928]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.01-21.51.43:999][928]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.51.43:999][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.51.44:797][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.05.01-21.51.46:865][ 19]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseInteractable.BP_BaseInteractable
+[2026.05.01-21.51.46:865][ 19]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.05.01-21.51.51:525][205]LogSlate: Window 'BP_BaseInteractable' being destroyed
+[2026.05.01-21.51.51:537][205]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.51.51:538][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.51.51:646][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.05.01-21.51.52:326][233]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseTerrain.BP_BaseTerrain
+[2026.05.01-21.51.52:326][233]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.05.01-21.52.35:489][821]LogSlate: Window 'BP_BaseTerrain' being destroyed
+[2026.05.01-21.52.35:500][821]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.52.35:501][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.52.35:599][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.05.01-21.52.37:485][914]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Cliff.BP_Cliff
+[2026.05.01-21.52.37:485][914]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.05.01-21.52.41:345][ 71]LogSlate: Window 'BP_Cliff' being destroyed
+[2026.05.01-21.52.41:392][ 71]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.52.41:392][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.52.41:499][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.05.01-21.52.42:149][105]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_DestroyTerrain.BP_DestroyTerrain
+[2026.05.01-21.52.42:150][105]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.05.01-21.52.48:074][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.05.01-21.52.48:495][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.52.48:555][392]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_DestroyTerrain] ([2] browsable assets)...
+[2026.05.01-21.52.48:555][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_DestroyTerrain]
+[2026.05.01-21.52.48:555][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DestroyTerrain" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_DestroyTerrain.uasset" SILENT=true
+[2026.05.01-21.52.48:566][392]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DestroyTerrain
+[2026.05.01-21.52.48:567][392]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_DestroyTerrainB2C1F47E4FA2B08FF76438878F8C856A.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_DestroyTerrain.uasset'
+[2026.05.01-21.52.48:580][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.809 ms (total: 21.0 sec)
+[2026.05.01-21.52.48:620][392]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.52.48:620][392]LogContentValidation: Enabled validators:
+[2026.05.01-21.52.48:620][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.52.48:620][392]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.52.48:620][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.52.48:620][392]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.52.48:620][392]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.52.48:620][392]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.52.48:620][392]AssetCheck: /Game/Blueprints/BP_DestroyTerrain Validating asset
+[2026.05.01-21.52.49:268][426]LogSlate: Window 'BP_DestroyTerrain' being destroyed
+[2026.05.01-21.52.49:312][426]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.52.49:312][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.52.49:387][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.05.01-21.52.50:931][501]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Hook.BP_Hook
+[2026.05.01-21.52.50:932][501]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.05.01-21.52.53:398][591]LogSlate: Window 'BP_Hook' being destroyed
+[2026.05.01-21.52.53:411][591]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.52.53:411][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.52.53:501][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.05.01-21.52.54:264][628]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ladder.BP_Ladder
+[2026.05.01-21.52.54:265][628]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.05.01-21.53.00:669][929]LogSlate: Window 'BP_Ladder' being destroyed
+[2026.05.01-21.53.00:681][929]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.53.00:681][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.53.00:777][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.05.01-21.53.01:799][973]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_MastButton.BP_MastButton
+[2026.05.01-21.53.01:799][973]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.05.01-21.53.06:330][131]LogSlate: Window 'BP_MastButton' being destroyed
+[2026.05.01-21.53.06:342][131]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.53.06:342][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.53.06:437][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.05.01-21.53.07:185][162]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Overhang.BP_Overhang
+[2026.05.01-21.53.07:185][162]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2026.05.01-21.53.09:881][263]LogSlate: Window 'BP_Overhang' being destroyed
+[2026.05.01-21.53.09:895][263]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.53.09:895][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.53.09:986][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.05.01-21.53.10:569][281]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2026.05.01-21.53.10:570][281]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2026.05.01-21.53.13:756][370]LogSlate: Window 'BP_PlayerCharacter' being destroyed
+[2026.05.01-21.53.13:767][370]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.53.13:767][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.53.13:874][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.05.01-21.53.15:620][454]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Rigging.BP_Rigging
+[2026.05.01-21.53.15:620][454]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2026.05.01-21.53.23:264][709]LogSlate: Window 'BP_Rigging' being destroyed
+[2026.05.01-21.53.23:276][709]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.53.23:276][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.53.23:496][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.05.01-21.53.24:653][762]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_RigStart.BP_RigStart
+[2026.05.01-21.53.24:654][762]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2026.05.01-21.53.27:183][832]LogSlate: Window 'BP_RigStart' being destroyed
+[2026.05.01-21.53.27:197][832]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.53.27:197][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.53.27:360][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2026.05.01-21.53.27:970][859]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Sail.BP_Sail
+[2026.05.01-21.53.27:970][859]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2026.05.01-21.53.50:681][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.05.01-21.53.51:280][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.53.51:343][778]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.05.01-21.53.51:352][778]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.05.01-21.53.51:352][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.05.01-21.53.51:352][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.05.01-21.53.51:397][778]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.05.01-21.53.51:398][778]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Sail87976F7343EC3BEC49B0D9A0B681AA85.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.05.01-21.53.51:411][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.802 ms (total: 21.1 sec)
+[2026.05.01-21.53.51:474][778]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.53.51:474][778]LogContentValidation: Enabled validators:
+[2026.05.01-21.53.51:474][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.53.51:474][778]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.53.51:474][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.53.51:474][778]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.53.51:474][778]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.53.51:474][778]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.53.51:474][778]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.05.01-21.54.16:498][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.05.01-21.54.16:931][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-21.54.16:994][816]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Sail] ([2] browsable assets)...
+[2026.05.01-21.54.17:003][816]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Sail.BP_Sail]
+[2026.05.01-21.54.17:003][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Sail]
+[2026.05.01-21.54.17:003][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Sail" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset" SILENT=true
+[2026.05.01-21.54.17:045][816]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Sail
+[2026.05.01-21.54.17:046][816]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Sail12D6E665401928EA1209FCAC142656D8.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Sail.uasset'
+[2026.05.01-21.54.17:060][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.380 ms (total: 21.2 sec)
+[2026.05.01-21.54.17:123][816]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-21.54.17:124][816]LogContentValidation: Enabled validators:
+[2026.05.01-21.54.17:124][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-21.54.17:124][816]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-21.54.17:124][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-21.54.17:124][816]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-21.54.17:124][816]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-21.54.17:124][816]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-21.54.17:124][816]AssetCheck: /Game/Blueprints/BP_Sail Validating asset
+[2026.05.01-21.54.19:599][919]LogSlate: Window 'BP_Sail' being destroyed
+[2026.05.01-21.54.19:611][919]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.54.19:611][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.54.19:708][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.05.01-21.54.20:500][955]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SailObject.BP_SailObject
+[2026.05.01-21.54.20:500][955]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2026.05.01-21.54.22:649][ 17]LogSlate: Window 'BP_SailObject' being destroyed
+[2026.05.01-21.54.22:661][ 17]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.54.22:661][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.54.22:790][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.05.01-21.54.23:387][ 42]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SpeedFlag.BP_SpeedFlag
+[2026.05.01-21.54.23:387][ 42]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2026.05.01-21.54.25:526][ 95]LogSlate: Window 'BP_SpeedFlag' being destroyed
+[2026.05.01-21.54.25:538][ 95]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.54.25:538][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.54.25:707][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.05.01-21.54.26:237][118]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Steering.BP_Steering
+[2026.05.01-21.54.26:238][118]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2026.05.01-21.54.28:628][173]LogSlate: Window 'BP_Steering' being destroyed
+[2026.05.01-21.54.28:641][173]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.54.28:641][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.54.28:765][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.05.01-21.54.30:779][265]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Vessel.BP_Vessel
+[2026.05.01-21.54.30:780][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2026.05.01-21.54.32:766][316]LogSlate: Window 'BP_Vessel' being destroyed
+[2026.05.01-21.54.32:779][316]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-21.54.32:779][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-21.54.32:871][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.05.01-21.54.50:970][400]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17905.027344
+[2026.05.01-21.54.51:970][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-21.54.51:970][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17905.693359, Update Interval: 352.342285
+[2026.05.01-21.55.12:774][497]LogDerivedDataCache: C:/Users/Abbyz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.01-22.01.36:785][662]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18311.095703
+[2026.05.01-22.01.37:784][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-22.01.37:784][665]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18311.761719, Update Interval: 305.381622
+[2026.05.01-22.07.24:844][706]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18659.335938
+[2026.05.01-22.07.25:844][709]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-22.07.25:844][709]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18660.003906, Update Interval: 300.115356
+[2026.05.01-22.13.20:239][772]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19014.906250
+[2026.05.01-22.13.21:239][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-22.13.21:239][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19015.572266, Update Interval: 348.344971
+[2026.05.01-22.19.58:700][967]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19413.527344
+[2026.05.01-22.19.59:701][970]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-22.19.59:701][970]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19414.193359, Update Interval: 316.621002
+[2026.05.01-22.25.56:781][ 41]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19771.783203
+[2026.05.01-22.25.57:781][ 44]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-22.25.57:781][ 44]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19772.451172, Update Interval: 342.164978
+[2026.05.01-22.32.15:855][178]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20151.072266
+[2026.05.01-22.32.16:854][181]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-22.32.16:854][181]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20151.738281, Update Interval: 339.026459
+[2026.05.01-22.38.46:940][351]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20542.357422
+[2026.05.01-22.38.47:939][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-22.38.47:940][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20543.023438, Update Interval: 320.275879
+[2026.05.01-22.45.02:345][477]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20917.978516
+[2026.05.01-22.45.03:345][480]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-22.45.03:345][480]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20918.644531, Update Interval: 358.221985
+[2026.05.01-22.51.46:770][690]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21322.611328
+[2026.05.01-22.51.47:771][693]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-22.51.47:771][693]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21323.279297, Update Interval: 350.513000
+[2026.05.01-22.55.12:775][308]LogDerivedDataCache: C:/Users/Abbyz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.01-22.58.20:839][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21716.859375
+[2026.05.01-22.58.21:841][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-22.58.21:841][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21717.525391, Update Interval: 353.138824
