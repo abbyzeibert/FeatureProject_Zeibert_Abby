@@ -36680,3 +36680,497 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.01-22.58.20:839][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21716.859375
 [2026.05.01-22.58.21:841][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.01-22.58.21:841][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21717.525391, Update Interval: 353.138824
+[2026.05.01-23.05.09:940][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22126.109375
+[2026.05.01-23.05.10:940][102]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-23.05.10:940][102]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22126.775391, Update Interval: 319.025238
+[2026.05.01-23.06.22:417][416]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Sail.BP_Sail
+[2026.05.01-23.06.22:418][416]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2026.05.01-23.09.24:233][973]LogPSOHitching: Encountered 50 PSO creation hitches so far (33 graphics, 17 compute). 0 of them were precached.
+[2026.05.01-23.09.26:936][ 77]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Vessel.BP_Vessel
+[2026.05.01-23.09.26:937][ 77]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2026.05.01-23.10.33:408][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.05.01-23.10.33:843][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-23.10.33:899][807]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Vessel] ([2] browsable assets)...
+[2026.05.01-23.10.33:946][807]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Vessel.BP_Vessel]
+[2026.05.01-23.10.33:946][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Vessel]
+[2026.05.01-23.10.33:946][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Vessel" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset" SILENT=true
+[2026.05.01-23.10.33:970][807]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Vessel
+[2026.05.01-23.10.33:971][807]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_VesselEA82D5414CBFEDA7E28252A23D71740A.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset'
+[2026.05.01-23.10.33:988][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.091 ms (total: 21.4 sec)
+[2026.05.01-23.10.34:052][807]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-23.10.34:052][807]LogContentValidation: Enabled validators:
+[2026.05.01-23.10.34:052][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-23.10.34:052][807]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-23.10.34:052][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-23.10.34:052][807]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-23.10.34:052][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-23.10.34:052][807]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-23.10.34:052][807]AssetCheck: /Game/Blueprints/BP_Vessel Validating asset
+[2026.05.01-23.11.18:300][145]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22494.464844
+[2026.05.01-23.11.18:491][153]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-23.11.18:492][153]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22494.628906, Update Interval: 340.976593
+[2026.05.01-23.13.07:535][ 76]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2026.05.01-23.13.07:536][ 76]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2026.05.01-23.17.30:113][832]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Steering.BP_Steering
+[2026.05.01-23.17.30:113][832]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2026.05.01-23.17.37:260][920]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22873.470703
+[2026.05.01-23.17.38:259][923]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-23.17.38:259][923]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22874.138672, Update Interval: 337.275909
+[2026.05.01-23.20.29:265][486]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ladder.BP_Ladder
+[2026.05.01-23.20.29:266][486]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2026.05.01-23.23.53:657][351]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23249.871094
+[2026.05.01-23.23.54:656][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-23.23.54:656][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23250.535156, Update Interval: 335.186615
+[2026.05.01-23.25.04:874][868]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Epic Games/UE_5.6/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/" -install="D:/Schoolwork/CAGD 280/SailingFinal_Zeibert_Abby.zip"" -nocompile -nocompileuat ]
+[2026.05.01-23.25.04:907][868]LogStreaming: Display: FlushAsyncLoading(530): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.01-23.25.05:049][868]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2026.05.01-23.25.05:093][868]UATHelper: Zip Project Task (Windows (Editor)): Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.05.01-23.25.07:021][868]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave CompileSuccess...
+[2026.05.01-23.25.07:216][868]LogAudioDerivedData: Display: CompileSuccess compressed to 14.13% (from 93KB to 13KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.01-23.25.07:352][868]LogAudio: Display: Chunk stats for (SoundWave /Engine/EditorSounds/Notifications/CompileSuccess.CompileSuccess: Duration=0.50 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=13553 bytes, ChunkN=0)
+[2026.05.01-23.25.09:261][872]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.05.01-23.25.12:673][ 68]UATHelper: Zip Project Task (Windows (Editor)): Starting AutomationTool...
+[2026.05.01-23.25.12:706][ 70]UATHelper: Zip Project Task (Windows (Editor)): Parsing command line: ZipProjectUp -nocompileeditor -project="D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/" -install="D:/Schoolwork/CAGD 280/SailingFinal_Zeibert_Abby.zip" -nocompile -nocompileuat
+[2026.05.01-23.25.14:070][130]UATHelper: Zip Project Task (Windows (Editor)): Initializing script modules...
+[2026.05.01-23.25.18:351][143]UATHelper: Zip Project Task (Windows (Editor)): Total script module initialization time: 4.27 s.
+[2026.05.01-23.25.18:427][143]UATHelper: Zip Project Task (Windows (Editor)): Using C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe
+[2026.05.01-23.25.19:309][145]UATHelper: Zip Project Task (Windows (Editor)): Executing commands...
+[2026.05.01-23.25.19:330][145]UATHelper: Zip Project Task (Windows (Editor)): Started zipping project up
+[2026.05.01-23.25.19:330][145]UATHelper: Zip Project Task (Windows (Editor)): Project directory: D:\Github Repos\FeatureProject_Zeibert_Abby\FeatureProject
+[2026.05.01-23.25.19:330][145]UATHelper: Zip Project Task (Windows (Editor)): Install directory: D:/Schoolwork/CAGD 280/SailingFinal_Zeibert_Abby.zip
+[2026.05.01-23.25.19:330][145]UATHelper: Zip Project Task (Windows (Editor)): Packaging up the project...
+[2026.05.01-23.25.25:716][165]UATHelper: Zip Project Task (Windows (Editor)): Completed zipping project up
+[2026.05.01-23.25.25:726][165]UATHelper: Zip Project Task (Windows (Editor)): BUILD SUCCESSFUL
+[2026.05.01-23.25.25:813][165]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool executed for 0h 0m 13s
+[2026.05.01-23.25.25:955][165]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
+[2026.05.01-23.25.27:321][169]LogStreaming: Display: FlushAsyncLoading(531): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.01-23.25.57:312][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2026.05.01-23.26.20:562][308]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2026.05.01-23.26.20:610][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.05.01-23.28.37:709][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.01-23.28.38:666][504]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-23.28.40:589][504]LogPlayLevel: PIE: StaticDuplicateObject took: (1.735441s)
+[2026.05.01-23.28.40:665][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestMap.TestMap to /Game/Scenes/UEDPIE_0_TestMap.TestMap (1.998844s)
+[2026.05.01-23.28.40:699][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.05.01-23.28.41:009][504]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.05.01-23.28.41:569][504]LogPlayLevel: PIE: World Init took: (0.598058s)
+[2026.05.01-23.28.41:634][504]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2026.05.01-23.28.41:634][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.01-23.28.41:634][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.01-23.28.41:634][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.01-23.28.41:634][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.01-23.28.41:670][504]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.01-23.28.41:683][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.01-23.28.41:683][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.01-23.28.41:683][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.01-23.28.41:688][504]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.01-23.28.41:688][504]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.01-23.28.41:688][504]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.01-23.28.41:691][504]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.01-23.28.42:099][504]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.05.01-23.28.42:116][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.01-23.28.42:116][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.01-23.28.42:116][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.01-23.28.42:117][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2026.05.01-23.28.42:117][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2026.05.01-23.28.42:119][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2026.05.01-23.28.42:119][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2026.05.01-23.28.42:139][504]LogInit: FAudioDevice initialized with ID 40.
+[2026.05.01-23.28.42:139][504]LogAudio: Display: Audio Device (ID: 40) registered with world 'TestMap'.
+[2026.05.01-23.28.42:139][504]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2026.05.01-23.28.42:559][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-23.28.42:940][504]LogLoad: Game class is 'BP_GameMode_C'
+[2026.05.01-23.28.43:335][504]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2026.05.01-16.28.43
+[2026.05.01-23.28.43:449][504]LogWorld: Bringing up level for play took: 0.381364
+[2026.05.01-23.28.43:829][504]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2026.05.01-23.28.45:341][504]PIE: Server logged in
+[2026.05.01-23.28.45:373][504]PIE: Play in editor total start time 8.663 seconds.
+[2026.05.01-23.28.47:662][505]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+[2026.05.01-23.28.47:662][505]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2026.05.01-23.28.49:021][506]LogPSOHitching: Encountered 100 PSO creation hitches so far (56 graphics, 44 compute). 0 of them were precached.
+[2026.05.01-23.28.54:859][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-23.28.54:859][524]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-23.28.54:953][524]LogSlate: Window 'FeatureProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.05.01-23.28.55:822][524]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-23.28.55:841][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-23.28.55:884][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.01-23.28.55:917][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-23.28.56:528][524]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2026.05.01-23.28.56:532][524]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=4
+[2026.05.01-23.28.56:534][524]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=2
+[2026.05.01-23.28.57:115][524]LogUObjectHash: Compacting FUObjectHashTables data took  22.74ms
+[2026.05.01-23.28.57:975][525]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2026.05.01-23.29.00:260][535]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.05.01-23.29.00:294][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.01-23.29.00:318][535]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-23.29.00:324][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006225s)
+[2026.05.01-23.29.00:324][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestMap.TestMap to /Game/Scenes/UEDPIE_0_TestMap.TestMap (0.006276s)
+[2026.05.01-23.29.00:369][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2026.05.01-23.29.00:373][535]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.05.01-23.29.00:375][535]LogPlayLevel: PIE: World Init took: (0.002122s)
+[2026.05.01-23.29.00:376][535]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2026.05.01-23.29.00:376][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.01-23.29.00:376][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.01-23.29.00:376][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.01-23.29.00:376][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.01-23.29.00:376][535]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.01-23.29.00:376][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.01-23.29.00:376][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.01-23.29.00:376][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.01-23.29.00:376][535]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.01-23.29.00:376][535]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.01-23.29.00:376][535]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.01-23.29.00:378][535]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.01-23.29.00:450][535]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.05.01-23.29.00:475][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.01-23.29.00:476][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.01-23.29.00:476][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.01-23.29.00:495][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2026.05.01-23.29.00:495][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2026.05.01-23.29.00:503][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2026.05.01-23.29.00:503][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2026.05.01-23.29.00:519][535]LogInit: FAudioDevice initialized with ID 41.
+[2026.05.01-23.29.00:519][535]LogAudio: Display: Audio Device (ID: 41) registered with world 'TestMap'.
+[2026.05.01-23.29.00:520][535]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2026.05.01-23.29.00:683][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-23.29.00:683][535]LogLoad: Game class is 'BP_GameMode_C'
+[2026.05.01-23.29.00:685][535]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2026.05.01-16.29.00
+[2026.05.01-23.29.00:686][535]LogWorld: Bringing up level for play took: 0.002133
+[2026.05.01-23.29.00:709][535]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2026.05.01-23.29.00:730][535]PIE: Server logged in
+[2026.05.01-23.29.00:740][535]PIE: Play in editor total start time 0.455 seconds.
+[2026.05.01-23.30.15:181][717]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23631.462891
+[2026.05.01-23.30.15:325][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-23.30.15:325][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23631.587891, Update Interval: 314.452942
+[2026.05.01-23.30.59:932][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-23.30.59:932][234]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-23.30.59:932][234]LogSlate: Window 'FeatureProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.05.01-23.30.59:962][234]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-23.30.59:962][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-23.30.59:963][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.01-23.30.59:974][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-23.31.00:011][234]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2026.05.01-23.31.00:011][234]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=4
+[2026.05.01-23.31.00:014][234]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
+[2026.05.01-23.31.00:028][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2026.05.01-23.31.00:505][235]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2026.05.01-23.31.10:801][265]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.05.01-23.31.10:809][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.01-23.31.10:809][265]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-23.31.10:816][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006274s)
+[2026.05.01-23.31.10:816][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestMap.TestMap to /Game/Scenes/UEDPIE_0_TestMap.TestMap (0.006331s)
+[2026.05.01-23.31.10:849][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.05.01-23.31.10:852][265]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.05.01-23.31.10:854][265]LogPlayLevel: PIE: World Init took: (0.001897s)
+[2026.05.01-23.31.10:860][265]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2026.05.01-23.31.10:860][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.01-23.31.10:860][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.01-23.31.10:860][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.01-23.31.10:860][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.01-23.31.10:861][265]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.01-23.31.10:867][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.01-23.31.10:867][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.01-23.31.10:867][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.01-23.31.10:867][265]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.01-23.31.10:867][265]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.01-23.31.10:870][265]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.01-23.31.10:870][265]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.01-23.31.10:931][265]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.05.01-23.31.10:931][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.01-23.31.10:931][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.01-23.31.10:931][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.01-23.31.10:932][265]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2026.05.01-23.31.10:932][265]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2026.05.01-23.31.10:982][265]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2026.05.01-23.31.10:982][265]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2026.05.01-23.31.11:101][265]LogInit: FAudioDevice initialized with ID 42.
+[2026.05.01-23.31.11:101][265]LogAudio: Display: Audio Device (ID: 42) registered with world 'TestMap'.
+[2026.05.01-23.31.11:101][265]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2026.05.01-23.31.11:175][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-23.31.11:175][265]LogLoad: Game class is 'BP_GameMode_C'
+[2026.05.01-23.31.11:177][265]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2026.05.01-16.31.11
+[2026.05.01-23.31.11:177][265]LogWorld: Bringing up level for play took: 0.002219
+[2026.05.01-23.31.11:180][265]LogOnline: OSS: Created online subsystem instance for: :Context_100
+[2026.05.01-23.31.11:227][265]PIE: Server logged in
+[2026.05.01-23.31.11:235][265]PIE: Play in editor total start time 0.426 seconds.
+[2026.05.01-23.33.25:541][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-23.33.25:541][230]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-23.33.25:542][230]LogSlate: Window 'FeatureProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.05.01-23.33.25:558][230]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-23.33.25:559][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-23.33.25:560][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.01-23.33.25:569][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-23.33.25:628][230]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2026.05.01-23.33.25:628][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=4
+[2026.05.01-23.33.25:630][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=2
+[2026.05.01-23.33.25:643][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2026.05.01-23.33.25:834][231]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2026.05.01-23.33.36:167][262]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.05.01-23.33.36:185][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.01-23.33.36:232][262]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-23.33.36:238][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005849s)
+[2026.05.01-23.33.36:238][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestMap.TestMap to /Game/Scenes/UEDPIE_0_TestMap.TestMap (0.005891s)
+[2026.05.01-23.33.36:272][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2026.05.01-23.33.36:275][262]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.05.01-23.33.36:319][262]LogPlayLevel: PIE: World Init took: (0.044304s)
+[2026.05.01-23.33.36:320][262]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2026.05.01-23.33.36:320][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.01-23.33.36:320][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.01-23.33.36:320][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.01-23.33.36:320][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.01-23.33.36:320][262]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.01-23.33.36:320][262]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.01-23.33.36:320][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.01-23.33.36:320][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.01-23.33.36:320][262]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.01-23.33.36:320][262]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.01-23.33.36:320][262]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.01-23.33.36:353][262]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.01-23.33.36:425][262]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.05.01-23.33.36:426][262]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.01-23.33.36:426][262]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.01-23.33.36:426][262]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.01-23.33.36:437][262]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2026.05.01-23.33.36:437][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2026.05.01-23.33.36:439][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2026.05.01-23.33.36:439][262]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2026.05.01-23.33.36:439][262]LogInit: FAudioDevice initialized with ID 43.
+[2026.05.01-23.33.36:439][262]LogAudio: Display: Audio Device (ID: 43) registered with world 'TestMap'.
+[2026.05.01-23.33.36:439][262]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2026.05.01-23.33.36:496][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-23.33.36:496][262]LogLoad: Game class is 'BP_GameMode_C'
+[2026.05.01-23.33.36:499][262]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2026.05.01-16.33.36
+[2026.05.01-23.33.36:499][262]LogWorld: Bringing up level for play took: 0.002643
+[2026.05.01-23.33.36:502][262]LogOnline: OSS: Created online subsystem instance for: :Context_101
+[2026.05.01-23.33.36:527][262]PIE: Server logged in
+[2026.05.01-23.33.36:535][262]PIE: Play in editor total start time 0.357 seconds.
+[2026.05.01-23.35.05:052][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-23.35.05:078][610]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-23.35.05:078][610]LogSlate: Window 'FeatureProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.05.01-23.35.05:081][610]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-23.35.05:082][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-23.35.05:083][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.01-23.35.05:091][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-23.35.05:132][610]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2026.05.01-23.35.05:132][610]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=4
+[2026.05.01-23.35.05:135][610]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
+[2026.05.01-23.35.05:207][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2026.05.01-23.35.05:542][611]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2026.05.01-23.36.08:233][799]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23984.558594
+[2026.05.01-23.36.09:234][802]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-23.36.09:234][802]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23985.224609, Update Interval: 343.095184
+[2026.05.01-23.37.51:055][108]LogPSOHitching: Encountered 150 PSO creation hitches so far (73 graphics, 77 compute). 0 of them were precached.
+[2026.05.01-23.38.20:325][701]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseTerrain.BP_BaseTerrain
+[2026.05.01-23.38.20:325][701]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2026.05.01-23.38.42:022][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.05.01-23.38.42:497][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-23.38.42:619][398]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_BaseTerrain] ([2] browsable assets)...
+[2026.05.01-23.38.42:619][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_BaseTerrain]
+[2026.05.01-23.38.42:619][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseTerrain" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_BaseTerrain.uasset" SILENT=true
+[2026.05.01-23.38.42:864][398]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BaseTerrain
+[2026.05.01-23.38.42:865][398]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_BaseTerrain91340C6147F4FDCEAA5ADCA60988BDEF.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_BaseTerrain.uasset'
+[2026.05.01-23.38.42:925][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 427.305 ms (total: 21.8 sec)
+[2026.05.01-23.38.43:190][398]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-23.38.43:190][398]LogContentValidation: Enabled validators:
+[2026.05.01-23.38.43:204][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-23.38.43:204][398]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-23.38.43:204][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-23.38.43:204][398]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-23.38.43:204][398]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-23.38.43:204][398]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-23.38.43:204][398]AssetCheck: /Game/Blueprints/BP_BaseTerrain Validating asset
+[2026.05.01-23.39.09:443][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.05.01-23.39.10:012][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.01-23.39.10:096][408]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Vessel] ([2] browsable assets)...
+[2026.05.01-23.39.10:126][408]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Vessel.BP_Vessel]
+[2026.05.01-23.39.10:126][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Vessel]
+[2026.05.01-23.39.10:126][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Vessel" FILE="../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset" SILENT=true
+[2026.05.01-23.39.10:225][408]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Vessel
+[2026.05.01-23.39.10:226][408]LogSavePackage: Moving '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Saved/BP_Vessel02283948436D2C203E03A6ADADC02BC2.tmp' to '../../../../../Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/Content/Blueprints/BP_Vessel.uasset'
+[2026.05.01-23.39.10:239][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 226.679 ms (total: 22.0 sec)
+[2026.05.01-23.39.10:347][408]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.01-23.39.10:347][408]LogContentValidation: Enabled validators:
+[2026.05.01-23.39.10:348][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.01-23.39.10:348][408]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.01-23.39.10:348][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.01-23.39.10:348][408]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.01-23.39.10:348][408]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.01-23.39.10:348][408]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.01-23.39.10:348][408]AssetCheck: /Game/Blueprints/BP_Vessel Validating asset
+[2026.05.01-23.39.26:242][823]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.05.01-23.39.26:277][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.01-23.39.26:340][823]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-23.39.26:346][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006285s)
+[2026.05.01-23.39.26:346][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestMap.TestMap to /Game/Scenes/UEDPIE_0_TestMap.TestMap (0.006336s)
+[2026.05.01-23.39.26:395][823]LogUObjectHash: Compacting FUObjectHashTables data took  10.09ms
+[2026.05.01-23.39.26:406][823]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.05.01-23.39.26:408][823]LogPlayLevel: PIE: World Init took: (0.002268s)
+[2026.05.01-23.39.26:409][823]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2026.05.01-23.39.26:410][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.01-23.39.26:410][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.01-23.39.26:410][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.01-23.39.26:410][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.01-23.39.26:410][823]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.01-23.39.26:410][823]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.01-23.39.26:410][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.01-23.39.26:410][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.01-23.39.26:410][823]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.01-23.39.26:410][823]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.01-23.39.26:410][823]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.01-23.39.26:412][823]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.01-23.39.26:489][823]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.05.01-23.39.26:538][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.01-23.39.26:538][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.01-23.39.26:538][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.01-23.39.26:580][823]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2026.05.01-23.39.26:580][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2026.05.01-23.39.26:582][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2026.05.01-23.39.26:582][823]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2026.05.01-23.39.26:582][823]LogInit: FAudioDevice initialized with ID 44.
+[2026.05.01-23.39.26:582][823]LogAudio: Display: Audio Device (ID: 44) registered with world 'TestMap'.
+[2026.05.01-23.39.26:607][823]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2026.05.01-23.39.26:678][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-23.39.26:678][823]LogLoad: Game class is 'BP_GameMode_C'
+[2026.05.01-23.39.26:680][823]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2026.05.01-16.39.26
+[2026.05.01-23.39.26:680][823]LogWorld: Bringing up level for play took: 0.002253
+[2026.05.01-23.39.26:683][823]LogOnline: OSS: Created online subsystem instance for: :Context_103
+[2026.05.01-23.39.26:713][823]PIE: Server logged in
+[2026.05.01-23.39.26:722][823]PIE: Play in editor total start time 0.445 seconds.
+[2026.05.01-23.40.26:873][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-23.40.26:873][564]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-23.40.26:873][564]LogSlate: Window 'FeatureProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.05.01-23.40.26:914][564]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-23.40.26:915][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-23.40.26:916][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.01-23.40.26:924][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-23.40.26:964][564]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.01-23.40.26:965][564]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2026.05.01-23.40.26:965][564]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=4
+[2026.05.01-23.40.26:967][564]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=2
+[2026.05.01-23.40.26:980][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2026.05.01-23.40.27:380][565]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2026.05.01-23.40.35:384][589]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.05.01-23.40.35:409][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.01-23.40.35:432][589]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-23.40.35:439][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006924s)
+[2026.05.01-23.40.35:439][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TestMap.TestMap to /Game/Scenes/UEDPIE_0_TestMap.TestMap (0.006977s)
+[2026.05.01-23.40.35:480][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.05.01-23.40.35:482][589]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.05.01-23.40.35:527][589]LogPlayLevel: PIE: World Init took: (0.044478s)
+[2026.05.01-23.40.35:528][589]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2026.05.01-23.40.35:528][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.01-23.40.35:528][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.01-23.40.35:528][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.01-23.40.35:528][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.01-23.40.35:528][589]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.01-23.40.35:528][589]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.01-23.40.35:528][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.01-23.40.35:529][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.01-23.40.35:529][589]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.01-23.40.35:529][589]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.01-23.40.35:529][589]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.01-23.40.35:531][589]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.01-23.40.35:607][589]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.05.01-23.40.35:651][589]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.01-23.40.35:651][589]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.01-23.40.35:651][589]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.01-23.40.35:652][589]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2026.05.01-23.40.35:652][589]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2026.05.01-23.40.35:654][589]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2026.05.01-23.40.35:654][589]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2026.05.01-23.40.35:654][589]LogInit: FAudioDevice initialized with ID 45.
+[2026.05.01-23.40.35:654][589]LogAudio: Display: Audio Device (ID: 45) registered with world 'TestMap'.
+[2026.05.01-23.40.35:654][589]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2026.05.01-23.40.35:714][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-23.40.35:714][589]LogLoad: Game class is 'BP_GameMode_C'
+[2026.05.01-23.40.35:716][589]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2026.05.01-16.40.35
+[2026.05.01-23.40.35:717][589]LogWorld: Bringing up level for play took: 0.002264
+[2026.05.01-23.40.35:724][589]LogOnline: OSS: Created online subsystem instance for: :Context_104
+[2026.05.01-23.40.35:739][589]PIE: Server logged in
+[2026.05.01-23.40.35:749][589]PIE: Play in editor total start time 0.34 seconds.
+[2026.05.01-23.42.50:232][452]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24386.677734
+[2026.05.01-23.42.50:384][461]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-23.42.50:384][461]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24386.816406, Update Interval: 317.206940
+[2026.05.01-23.42.55:222][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.01-23.42.55:231][740]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_TestMap
+[2026.05.01-23.42.55:231][740]LogSlate: Window 'FeatureProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.05.01-23.42.55:231][740]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.01-23.42.55:231][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-23.42.55:233][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.01-23.42.55:241][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.01-23.42.55:281][740]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2026.05.01-23.42.55:281][740]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=4
+[2026.05.01-23.42.55:284][740]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=2
+[2026.05.01-23.42.55:295][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2026.05.01-23.42.55:674][741]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2026.05.01-23.46.08:361][456]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Epic Games/UE_5.6/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/" -install="D:/Schoolwork/CAGD 280/SailingFinal_Zeibert_Abby.zip"" -nocompile -nocompileuat ]
+[2026.05.01-23.46.08:690][460]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2026.05.01-23.46.08:734][460]UATHelper: Zip Project Task (Windows (Editor)): Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.05.01-23.46.11:449][585]UATHelper: Zip Project Task (Windows (Editor)): Starting AutomationTool...
+[2026.05.01-23.46.11:470][587]UATHelper: Zip Project Task (Windows (Editor)): Parsing command line: ZipProjectUp -nocompileeditor -project="D:/Github Repos/FeatureProject_Zeibert_Abby/FeatureProject/" -install="D:/Schoolwork/CAGD 280/SailingFinal_Zeibert_Abby.zip" -nocompile -nocompileuat
+[2026.05.01-23.46.11:588][593]UATHelper: Zip Project Task (Windows (Editor)): Initializing script modules...
+[2026.05.01-23.46.13:211][658]UATHelper: Zip Project Task (Windows (Editor)): Total script module initialization time: 1.63 s.
+[2026.05.01-23.46.13:288][660]UATHelper: Zip Project Task (Windows (Editor)): Using C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe
+[2026.05.01-23.46.13:861][682]UATHelper: Zip Project Task (Windows (Editor)): Executing commands...
+[2026.05.01-23.46.13:894][684]UATHelper: Zip Project Task (Windows (Editor)): Started zipping project up
+[2026.05.01-23.46.13:894][684]UATHelper: Zip Project Task (Windows (Editor)): Project directory: D:\Github Repos\FeatureProject_Zeibert_Abby\FeatureProject
+[2026.05.01-23.46.13:894][684]UATHelper: Zip Project Task (Windows (Editor)): Install directory: D:/Schoolwork/CAGD 280/SailingFinal_Zeibert_Abby.zip
+[2026.05.01-23.46.13:894][684]UATHelper: Zip Project Task (Windows (Editor)): Packaging up the project...
+[2026.05.01-23.46.14:641][729]UATHelper: Zip Project Task (Windows (Editor)): Completed zipping project up
+[2026.05.01-23.46.14:641][729]UATHelper: Zip Project Task (Windows (Editor)): BUILD SUCCESSFUL
+[2026.05.01-23.46.14:652][730]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool executed for 0h 0m 3s
+[2026.05.01-23.46.14:652][730]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
+[2026.05.01-23.48.53:135][637]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24749.611328
+[2026.05.01-23.48.53:310][646]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-23.48.53:310][646]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24749.767578, Update Interval: 328.623932
+[2026.05.01-23.49.08:908][142]LogSlate: Window 'SDK Not Setup' being destroyed
+[2026.05.01-23.55.11:887][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25128.433594
+[2026.05.01-23.55.12:801][256]LogDerivedDataCache: C:/Users/Abbyz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.013 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.01-23.55.12:893][256]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.01-23.55.12:893][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25129.101562, Update Interval: 326.080505
+[2026.05.02-00.01.28:635][383]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25505.189453
+[2026.05.02-00.01.29:635][386]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-00.01.29:635][386]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25505.855469, Update Interval: 329.019440
+[2026.05.02-00.07.55:053][542]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25891.636719
+[2026.05.02-00.07.56:055][545]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-00.07.56:055][545]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25892.302734, Update Interval: 348.066650
+[2026.05.02-00.14.24:147][709]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26280.750000
+[2026.05.02-00.14.25:153][712]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-00.14.25:153][712]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26281.421875, Update Interval: 335.005341
+[2026.05.02-00.20.54:563][880]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26671.220703
+[2026.05.02-00.20.55:563][883]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-00.20.55:563][883]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26671.886719, Update Interval: 316.047852
+[2026.05.02-00.26.50:301][947]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27027.035156
+[2026.05.02-00.26.51:300][950]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-00.26.51:300][950]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27027.701172, Update Interval: 303.678711
+[2026.05.02-00.32.30:042][966]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27366.884766
+[2026.05.02-00.32.31:041][969]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-00.32.31:041][969]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27367.550781, Update Interval: 334.294861
+[2026.05.02-00.39.01:781][141]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27758.773438
+[2026.05.02-00.39.02:781][144]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-00.39.02:781][144]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27759.441406, Update Interval: 306.815399
+[2026.05.02-00.45.01:187][219]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28118.318359
+[2026.05.02-00.45.02:185][222]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-00.45.02:186][222]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28118.984375, Update Interval: 328.814362
+[2026.05.02-00.51.13:928][337]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28491.226562
+[2026.05.02-00.51.14:927][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-00.51.14:928][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28491.892578, Update Interval: 338.998993
+[2026.05.02-00.55.12:788][ 54]LogDerivedDataCache: C:/Users/Abbyz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.02-00.57.36:018][483]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28873.484375
+[2026.05.02-00.57.37:018][486]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-00.57.37:018][486]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28874.152344, Update Interval: 315.628540
+[2026.05.02-01.03.35:767][562]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29233.402344
+[2026.05.02-01.03.36:767][565]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-01.03.36:767][565]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29234.070312, Update Interval: 347.140106
+[2026.05.02-01.10.11:181][748]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29629.005859
+[2026.05.02-01.10.12:180][751]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-01.10.12:180][751]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29629.671875, Update Interval: 321.356232
+[2026.05.02-01.16.25:923][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30003.939453
+[2026.05.02-01.16.26:923][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-01.16.26:923][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30004.607422, Update Interval: 310.721161
+[2026.05.02-01.22.22:998][943]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30361.154297
+[2026.05.02-01.22.23:999][946]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-01.22.23:999][946]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30361.822266, Update Interval: 340.480347
+[2026.05.02-01.28.39:071][ 71]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30737.437500
+[2026.05.02-01.28.40:075][ 74]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-01.28.40:076][ 74]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30738.107422, Update Interval: 352.173828
